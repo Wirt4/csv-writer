@@ -1,0 +1,3249 @@
+NASA Internship projects
+
+Title:
+Augmented Reality Application Dev. for NASA's Advanced Operations Concept Lab
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Johnson Space Center
+
+Building:
+32
+
+Room:
+204
+
+Description:
+The student will be part of a multi-discipline team in NASA's Advanced Operations Concepts Lab and entail developing application for various augmented reality headsets (Hololense, MagicLeap, Meta2, etc.) using various programming languages/environments. These applications will support training and real-time operations. Other technologies that may be investigated include: Deep Learning and A.I., eye tracking, 3D printing, and some minor 3D modeling.
+
+Computer/Software Skills:
+C/C++, C#, Unity, Unreal, Deep Learning, Neural Networks, MATLAB, Mathematica, Visual C++, Microsoft Windows
+
+Technical Skills:
+
+
+Other Skills:
+Ability to work in a team, self motivated.
+
+Academic Level(s):
+
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+Center Operations Mission
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+Title:
+Autonomous Systems and Operations for Rocket Test and Space Exploration
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Stennis Space Center
+
+Building:
+8306
+
+Room:
+109
+
+Description:
+The intern will be involved in on-going development of the NASA Platform for Autonomous Systems (NPAS), a software platform that is being used to develop autonomous systems on ground and in space. The intern will also contribute directly to on-going use of NPAS to turn rocket test systems at Stennis into autonomous systems, and to development of autonomous space habitats and other systems needed to establish settlements on the Moon and Mars. The activities involve learning new paradigms for programming using the G2 software environment, which was created specifically to develop real-time intelligent applications; and becoming familiar with the design and operations of the target systems (e.g. rocket engine test facilities or space habitat) in the context of modeling and analysis approaches for autonomy.
+
+Computer/Software Skills:
+The interest and desire to learn to develop intelligent applications using the G2 software environment. Familiarity and/or experience programming in languages such as C, MatLab, and LabWindows; or similar.
+
+Technical Skills:
+Junior standing in engineering or computer science is ideal.
+
+Other Skills:
+
+
+Academic Level(s):
+
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+Human Exploration and Operations Mission
+Space Technology Mission
+
+Title:
+Computational Studies in Hypersonic Aerothermodynamics
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Langley Research Center
+
+Building:
+1251
+
+Room:
+204
+
+Description:
+Work with researchers simulating hypersonic flow fields for aerothermodynamic characteristics such as aerodynamics, convective heat transfer, boundary layer properties, and visualization. The student will work in the Aerothermodynamics Branch at NASA Langley. Students will assist in performing numerical simulations, including pre- and post-processing, data reduction, code support and maintenance, testing, and development tasks, depending upon education level and experience.
+
+Computer/Software Skills:
+Programming ability is desired.
+
+Technical Skills:
+Exposure to Computational Fluid Dynamics is desired.
+
+Other Skills:
+
+
+Academic Level(s):
+College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Mechanical; Mathematics - Applied; Physical Science - Physics
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+Title:
+Data Analysis and IT Project Planning/Execution
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Johnson Space Center
+
+Building:
+1
+
+Room:
+715
+
+Description:
+This is a Engineering Directorate level internship focused on analysis of IT and business data that informs directorate wide decision making and policies. In addition depending on intern skills are opportunities for various technical projects. Examples of projects and analysis by past interns include IT end user device analysis and trends leading to the creation of a budget forecasting model, custom Raspberry Pi development for data center health and status dashboard displays, data storage utilization analysis for storage architecture planning, and information systems access control analysis via graph based visualization. Each intern in this position will have 1-2 major projects defined for them and the opportunity to spend ~25% time on a project of interest elsewhere in the Engineering Directorate. Previous intern 25% projects have included AR/VR development, artificial intelligence, and robotics.
+
+Computer/Software Skills:
+General ability in office productivity tools (Word, Excel, PowerPoint, or equivalent)
+
+Technical Skills:
+Experience with scripting languages like Perl and/or Python as well as compiled languages like C++ and C#. While not required experience with SharePoint, Splunk, ServiceNow, Amazon Web Services, containers like Docker, and Visio would be beneficial.
+
+Other Skills:
+The intern position is in the IT Integration group in the Project Management and Integration office. Given the role of the organization clear and concise written and verbal communication are key skills. An ability to present data to management and non-IT technical teams is key to success. As an organization supported by contract technical personnel and ability to work with and coordinate a team is also essential as many project will require organizing tasks across various subject matter experts. Interns should also be able to take general direction and act independently.
+
+Academic Level(s):
+College Sophomore;College Junior
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Information Science/Studies; Mathematics - Applied
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+Title:
+Deep Learning and Biometric Sensors for Mental & Physical State Determination
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Johnson Space Center
+
+Building:
+32
+
+Room:
+204
+
+Description:
+Assist in development of a system that uses biometric sensors and A.I. / Deep Learning (DL) techniques to determine a persons mental and physical state. The system will be applied to various training and real-time operations support applications. Specific duties will include: 1. Helping to identify biometric sensors, conduting testing of the sensors, and making recommendations on their overall applicability to our application 2. Developing AI/Neural Network algorithms to determine a persons physical and mental state using the biometric sensor data 3. Supporting development middleware solutions that integrate the biometric sensors, AI/DL algorithms, into the rest of the system. 4. Supporting integrated testing and demonstrations of the system
+
+Computer/Software Skills:
+C++/C, Artificial Intelligence/Deep Learning / Artificial Neural Networks, Windows OS, Virtual Reality Systems including HTC Vive and Unreal4 Engine Microsoft Visual Studio, GIT, Cloud Computing, Matlab
+
+Technical Skills:
+Computer Science, Human Performance and Physiology, Cognitive Science, Mathematics and Statistics, Neuroscience.
+
+Other Skills:
+communication and teamwork are important.
+
+Academic Level(s):
+College Junior;College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Engineering - Biological/Biosystems; Engineering - Biomedical/Medical Engineering; Engineering - Computer; Mathematics - Applied; Mathematics - Mathematics and Statistics; Mathematics - Statistics; Multi-disciplinary - Biological and Physical Sciences; Multi-disciplinary - Cognitive Science; Multi-disciplinary - Computational Science; Multi-disciplinary - Human Computer Interaction; Multi-disciplinary - Mathematics and Computer Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+Center Operations Mission
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+Title:
+Developing VR/AR solutions for the LaRC Engineering Design Studio
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Langley Research Center
+
+Building:
+1212
+
+Room:
+102
+
+Description:
+Internship opportunity researching and developing virtual and augmented reality (VR/AR) solutions for visualizing developing engineering system designs and related analysis data. This will nominally include solutions for rapid virtual and augmented reality display of 3D computer aided design (CAD) drawings and related engineering data. Engineering data will nominally include cost and engineering analysis results characterizing alternative system designs. The solutions will support rapid system design development and rapid prototyping. System designs will nominally include proposed space based earth science instruments. Results will be used for proposals and project advancement. The intern will work directly with the EDS system engineers to research and utilize EDS VR/AR equipment including Oculus Rift and MS Hololens EDS VR/AR software such as Unity and SketchUp Pro on EDS VR/AR workstations. Interested interns should have knowledge or experience with some combination of two or more of the following: virtual or augmented reality game engines (example: Unity Game Engine), visualization techniques, computer science, and data analysis. Applicants must be US citizens, submit to NASA identify verification processes and comply with NASA security procedures.
+
+Computer/Software Skills:
+Interested interns should have knowledge or experience with some combination of two or more of the following: virtual or augmented reality game engines (example: Unity Game Engine), visualization techniques, computer science, and data analysis.
+
+Technical Skills:
+Interested interns should have knowledge or experience with some combination of two or more of the following: virtual or augmented reality game engines (example: Unity Game Engine), visualization techniques, computer science, and data analysis.
+
+Other Skills:
+
+
+Academic Level(s):
+College Junior
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Information Science/Studies
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+Title:
+Evaluate Private Cloud Architectures for Internet of Things in Space
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Johnson Space Center
+
+Building:
+44
+
+Room:
+235
+
+Description:
+Evaluate private cloud software packages and emerging open standards interfaces for internet of things.
+
+Computer/Software Skills:
+Linux proficiency will be helpful
+
+Technical Skills:
+The internship may provide hands-on experience with laboratory instruments, fabrication techniques (soldering, 3D printing...), or software packages.
+
+Other Skills:
+Responsible. Plan and work independently. Confer with experts, mentors, and liaisons about safety or security concerns, technical obstacles, institutional or procedural obstacles, logistical obstacles.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Computer
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Evaluate Architecture and Protocols for Space Proximity Wireless Networks
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Johnson Space Center
+
+Building:
+44
+
+Room:
+235
+
+Description:
+Evaluate and propose methods of applying wireless technologies and open standards to off-grid scenarios with intermittent communication links. Example technologies of interest include LTE, IoT, Bluetooth, WiFi, LoRa, Zigbee, ISA 100, and RFID. Presentation of results of field tests of hardware and software modifications.
+
+Computer/Software Skills:
+Linux proficiency, programming skills will be helpful.
+
+Technical Skills:
+The internship may provide hands-on experience with laboratory instruments, fabrication techniques (soldering, 3D printing...), or software packages.
+
+Other Skills:
+Responsible. Plan and work independently. Confer with experts, mentors, and liaisons about safety or security concerns, technical obstacles, institutional or procedural obstacles, logistical obstacles.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior
+
+Major(s):
+Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Human Factors Engineering Virtual Reality/Augmented Reality Internship
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Marshall Space Flight Center
+
+Building:
+4649
+
+Room:
+101
+
+Description:
+The Marshall Space Flight Center (MSFC) Human Factors Engineering Team is responsible for design of human interfaces to flight and ground systems. Currently evaluations of conceptual designs are being completed that will enable human missions Beyond Low Earth Orbit. These missions will require onboard autonomy – informed decision-making capability – beyond any current spaceflight experience. Decisions now made by ground controllers (for example, to manage ISS payloads and systems) will need to be made by flight crews, and maintenance activities will need to be planned and executed by onboard crews, rather than ground teams. The project for this internship will be to further develop existing Virtual Reality concepts and develop new environments that will be used to assess potential Deep Space designs. The work will be performed in the Virtual Environments Laboratory (VEL), part of MSFC's Deep Space Habitat mockup facility. The VEL includes Motion Capture, Virtual Reality and Augmented Reality capabilities that may be incorporated into this project.
+
+Computer/Software Skills:
+Potential skills include, but are not limited to: Essential Software: Unity3D, Lightwave Bonus Software: Unreal Engine, Pro Engineer/Creo Hardware: HTC Vive, Oculus, HP-Z Computers, MoCap Languages: C# or JavaScript (used in Unity3D)
+
+Technical Skills:
+There is a need for some computer programming that is not essential, but helpful. Graphic Design is a tool that would be very helpful in texturing and building the environment.
+
+Other Skills:
+This position will involve working with a team of Architects, Engineers, and Engineering Techs to develop Virtual Reality concepts for analysis. Good communication and the willingness to ask questions, listen, and learn new things will be essential. Good organization skills will be necessary to work the multiple departments involved. This position is for someone that is highly motivated and a self starter.
+
+Academic Level(s):
+College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Engineering - Computer; Engineering - General; Multi-disciplinary - Human Computer Interaction; Visual and Performing Arts - Design and Applied Arts
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Orion Backup Flight Software Developer & Tester
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Johnson Space Center
+
+Building:
+16
+
+Room:
+270
+
+Description:
+You will help develop the Backup Flight Software system by writing requirements, developing a software design, implementing the safety-critical software, testing the software, and evaluating software performance in simulation. You will be assigned to a software application based on your background and interests (guidance, navigation, control, manual piloting, solar array control, propulsion system control, etc.) and work with your software application lead to deliver your safety-critical real-time flight software application. Our team uses test driven development and continuous integration/delivery.
+
+Computer/Software Skills:
+C/C++, Python, Git
+
+Technical Skills:
+Core Flight Software (cFS) experience, Robot Operating System (ROS), flight mechanics background, Guidance, Navigation and Control (GN&C) knowledge, software engineering background, Doxygen, GitLab
+
+Other Skills:
+strong communication skills
+
+Academic Level(s):
+College Junior;College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Information Science/Studies; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Engineering - Mechatronics / Robotics / Automation Engineering
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+Safety and Mission Assurance Data Internship
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Stennis Space Center
+
+Building:
+1100
+
+Room:
+309-1
+
+Description:
+This announcement is for an intern position in the Safety and Mission Assurance Directorate (SMA). SMA serves as the conscience of the Center regarding safety and strives toward enhancing the success of the SSC mission. This position involves trainee level work with oversight and guidance from experienced personnel. This position offers opportunities to aid development of methods to analyze SMA data from several sources to identify potential sources of future safety incidents. Interns may develop and execute strategies to clean, sort and relate data to aid in decision making and policy development. Basic relationships will be pursued with an end goal of an overall model of safety behavior.
+
+Computer/Software Skills:
+Basic computer skills are necessary including a working knowledge of Excel. Other skills that will be beneficial include R and/or Python. It is assumed that the candidate knows Word and PowerPoint.
+
+Technical Skills:
+A statistics, machine learning or computer science background will be beneficial
+
+Other Skills:
+Skills that will help the applicant be successful are communication, curiosity and the ability to work independently.
+
+Academic Level(s):
+College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Entry/Microcomputer Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Computer; Engineering - General; Mathematics; Mathematics - Applied; Mathematics - Mathematics and Statistics; Mathematics - Statistics; Multi-disciplinary - Computational Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+Science Mission
+
+Title:
+Technology Transfer Video Producer
+
+Type:
+Internship
+
+Session:
+Fall 2019
+
+Center:
+Marshall Space Flight Center
+
+Building:
+4201
+
+Room:
+220
+
+Description:
+The Marshall Space Flight Center Technology Transfer Office is looking for motivated, proactive interns to help us explain NASA patented technologies to businesses in a fun, informative way for use in social media marketing campaigns (YouTube, LinkedIn, Twitter, etc). The intern will help the Technology Transfer program by gathering b-roll footage of patented NASA technologies, inventors at work, and lab environments. The intern will also help shoot and edit short marketing videos for use on social media and marketing outreach events. The intern will also be responsible for scheduling shoots with inventors, using a Nikon D850 DSLR camera to shoot footage, editing raw footage into usable clips, and writing scripts for short marketing videos. NASA’s Technology Transfer Program at Marshall Space Flight Center (MSFC) works with entrepreneurs, startups, academia, other government agencies and existing companies to license patented NASA Technologies for the purpose of commercialization. NASA MSFC has approximately 1400 patented technologies to market to industry and receives 50-60 invention disclosures per year from its engineers and scientists. In order to appeal to new potential licensees, short marketing videos are created for public announcement campaigns, marketing efforts using social media, and for use at exhibit events. The Student Intern will have the opportunity to learn the ins and outs of technology transfer first hand and will begin to develop the complex set of skills necessary to conduct this exciting work. During this Internship, the Student will work with NASA inventors and technology transfer professionals across the center to: (1) Shoot, produce, and edit marketing videos that can attract potential licensees while also adhering to NASA communication guidelines (2) Shoot b-roll footage of NASA technologies, lab environments, and inventors at work for future marketing videos (3) Provide assistance as needed in all components of the production, including sound, lighting, camera work, script-writing, editing and postproduction. 4) Provide assistance as needed in other marketing efforts such as building email marketing lists or putting together informational materials to mail out to different organizations. The intern must be able to work autonomously after training, must maintain a professional attitude (especially with inventors), must be responsible and hard-working, and must be able to take constructive criticism when their video skills and scripts are evaluated.
+
+Computer/Software Skills:
+• Working knowledge of Adobe Creative Suite, especially Adobe Premiere • Microsoft Office (PowerPoint, Excel, and Word)
+
+Technical Skills:
+• Ability to shoot footage using a DSLR camera • Working knowledge of social media platforms
+
+Other Skills:
+• Strong organizational skills • Ability to work with a diverse team of people/skillsets and deliver a meaningful product
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master's;Doctorate
+
+Major(s):
+Business - Marketing; Communication - Journalism and Related Programs; Communication - Media Studies; Communications - Audio Visual; Communications - Graphic Communications; Communications - Public Relations / Advertising / Applied Communication; Communications - Publishing; Communications - Radio / Television / Digital Communications; Visual and Performing Arts - Design and Applied Arts; Visual and Performing Arts - General (Note: you have the skillset detailed here - might make an exception for CS?)
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Space Technology Mission
+
+Title:
+2019 NASA Journalism, Multimedia, Social Media Spring Internships
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Goddard Space Flight Center
+
+Building:
+8
+
+Room:
+N150
+
+Description:
+NASA invites students working towards degrees in journalism, communications, media relations, science writing, convergence journalism, or broadcast journalism to participate in our science storytelling program. You'll gain on-the-job experience as you work with a leading team of writers and multimedia producers to create and share content from NASA's most exciting science missions: mind-bending results from the Hubble Space Telescope, new views of our surprisingly dynamic moon from the Lunar Reconnaissance Orbiter, stories of our changing planet from NASA's remote sensing satellites, and breaking news from surface of the Sun. Our internships are designed to give students broad exposure to many moving parts of our busy newsroom. Students wishing to explore the intersection between print, broadcast journalism and social media are encouraged to apply. Interns will collaborate on sophisticated communications campaigns as they create videos, web features, newsletter articles, press conferences, media interviews, social media posts, live streams, and satellite media tours.
+
+Computer/Software Skills:
+
+
+Technical Skills:
+Key attributes of our interns: boundless curiosity, creative spirit, and a passion for sharing engaging stories with diverse audiences. Students with experience or an interest in science will find the internship particularly rewarding. Some of our most successful candidates have been scientists with flair for communications, or gifted communicators with special interest in science. Candidates are encouraged to include a statement summarizing their goals for the internship, detail of relevant classes and work experience, and links to work samples. We want to know why this internship is a good fit for your career objectives.
+
+Other Skills:
+Duties: Writing, editing, recording, pitching, designing, creating, crunching, captioning, surfing, shooting, snapping, streaming, tweeting, feeding, porting, posting, researching, updating, networking, watching, wrangling, texting, tracking, building, playing, mashing, and exploring. Candidates interested in writing and social media should be familiar with AP Style. Video and multimedia candidates are expected to be familiar with entire arc of video production. Candidates are encouraged to include a statement summarizing their goals for the internship, detail of relevant classes and work experience, and links to work samples. We want to know why this internship is a good fit for your career objectives.
+
+Academic Level(s):
+College Freshman;College Sophomore;College Junior;College Senior;Master's;Doctorate
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+
+Title:
+3 Degree of Freedom Magnetic Levitation Testbeds
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+White Sands Test Facility
+
+Building:
+364
+
+Room:
+101
+
+Description:
+WSTF is seeking an intern to assist on the following projects. All projects will be conducted under the guidance of a senior level engineer. 3 Degree of Freedom Magnetic Levitation Testbeds (Meag Lev table) Assist in development of the Meag Lev Table Help Identify and install wireless data communication and control system to support CubeSat testing Develop GUI interface to control Nano-Thruster propulsion system on CubeSat’s Develop GUI to display and record data collected during testing Carry out experiments, collect data, and report findings Development of high altitude simulation system control algorithm Data reduction to identify diesel engine run parameter values, i.e. engine run speed, for various operational states Develop diesel engine control logic based on data reduction results Lay the groundwork for control algorithm implementation in Alan-Bradley based latter logic programming language. Familiarization and operation of a Modal Test Unit, a suite of data acquisition and accelerometer instruments used to characterize the dynamic response of test structures/hardware to impulses imparted by rocket engines. Become familiar with the setup and operation of the Modal Test Unit Carry out experiments, collect data, and report findings Help develop user manual
+
+Computer/Software Skills:
+Not required but would be useful if applicants are familiar with the following: C programming, Python, LabVIEW, National Instruments Hardware, 802 wireless protocol, Latter Logic
+
+Technical Skills:
+Strong trouble shooting skills and ability to over come unexpected challenges is desired. Experience with GUI design and wireless network protocol would also be a plus.
+
+Other Skills:
+Candidates will be required to interface with customers to capture requirements, communicate technical challenges, and provide data reports. Candidates need to be willing to work in a team environment. Candidates must be self motivated and willing to speak out if they need assistance with a given task.
+
+Academic Level(s):
+College Junior;College Senior;Master's
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+3D immersive CAVE (Computer Automatic Virtual Environment) support
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Glenn Research Center
+
+Building:
+142
+
+Room:
+286b
+
+Description:
+Work immersive visualization efforts in support of NASA’s Unmanned Aircraft Systems in the National Airspace System (UAS in the NAS) project. This work will be with the Graphics and Visualization (GVIS) team, which supports NASA by developing Agency-wide visualization solutions. Initial assignments will be in augmented reality/virtual reality (AR/VR) to advance and promote NASA’s UAS in the NAS project. Key in this effort will include supporting a 3D immersive CAVE (Computer Automatic Virtual Environment) system and developing visualization solutions to advance programmatic milestones.
+
+Computer/Software Skills:
+Strong understanding of computer graphics and application development Unity & C# Experience Virtual Reality concepts and implementation Experience in 3D modeling and/or media content production Familiarity with Python and Keyhole Markup Language (KML)
+
+Technical Skills:
+Some understanding of computer and video hardware is a plus
+
+Other Skills:
+Enthusiasm for new technologies and in exploring ways to apply them. Strong analytical and problem-solving ability. Good organizational ability for gathering, analyzing, and providing status or other actions. Must be self-motivated and able to communicate and work well with various customers and team members.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Engineering - Computer; Multi-disciplinary - Human Computer Interaction; Other-Not Listed; Visual and Performing Arts - Design and Applied Arts; Visual and Performing Arts - General
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+
+Title:
+3D immersive CAVE (Computer Automatic Virtual Environment) support
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Glenn Research Center
+
+Building:
+142
+
+Room:
+286b
+
+Description:
+Work immersive visualization efforts in support of NASA’s Unmanned Aircraft Systems in the National Airspace System (UAS in the NAS) project. This work will be with the Graphics and Visualization (GVIS) team, which supports NASA by developing Agency-wide visualization solutions. Initial assignments will be in augmented reality/virtual reality (AR/VR) to advance and promote NASA’s UAS in the NAS project. Key in this effort will include supporting a 3D immersive CAVE (Computer Automatic Virtual Environment) system and developing visualization solutions to advance programmatic milestones.
+
+Computer/Software Skills:
+Strong understanding of computer graphics and application development Unity & C# Experience Virtual Reality concepts and implementation Experience in 3D modeling and/or media content production Familiarity with Python and Keyhole Markup Language (KML)
+
+Technical Skills:
+Some understanding of computer and video hardware is a plus
+
+Other Skills:
+Enthusiasm for new technologies and in exploring ways to apply them. Strong analytical and problem-solving ability. Good organizational ability for gathering, analyzing, and providing status or other actions. Must be self-motivated and able to communicate and work well with various customers and team members.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Engineering - Computer; Multi-disciplinary - Human Computer Interaction; Other-Not Listed; Visual and Performing Arts - Design and Applied Arts; Visual and Performing Arts - General
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+
+
+Title:
+Aerodynamic Modeling and Simulation of Aircraft
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Armstrong Flight Research Center
+
+Building:
+4800
+
+Room:
+2114
+
+Description:
+It is expected that the objectives of this work will be tailored based on the candidate's education, interests, and experience. Overall the end state of this project will be to put in place a generalized flight simulation capability to evaluate air vehicle designs. Initially candidates will need to update and evaluate design vehicle configurations, generate aerodynamic models and complete an initial evaluation of the model and its suitability for implementation into a flight simulator. Aerodynamic models and a generalized control system will need to be implemented into the flight simulator for both batch and piloted simulation. Each configuration will then need to be evaluated, or virtually flight-tested, for the intended purpose of the vehicle. This will include standard and specialized flight test maneuvers and other evaluation as needed. Other evaluation as needed could include, for example; towing dynamics, assisted boosting dynamics, or highly dynamic maneuvering. Schedule permitting the candidate will construct and participate in virtual flight experiments at discrete flight conditions and quantify uncertainty in the results.
+
+Computer/Software Skills:
+Not required but desired experience with AVL, VSP, Windows, Linux, C/C+, Matlab
+
+Technical Skills:
+Some desired technical skills include: Aerodynamic Modeling, Flying Experience, RC or UAV design or piloting.
+
+Other Skills:
+The candidate will be expected to document all work in clear written form. Items that will be expected in documentation include completed tasks, rational supporting decisions that are made, results, and recommendations for future work.
+
+Academic Level(s):
+College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Biomedical/Medical Engineering; Engineering - Computer; Engineering - General; Engineering - Mechanical; Engineering - Physics; Engineering - Science; Engineering - Systems; Engineering Technology - Technology/Technicians; Mathematics; Mathematics - Applied; Mathematics - Mathematics and Statistics; Multi-disciplinary - Computational Science; Multi-disciplinary - Mathematics and Computer Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+Space Technology Mission
+
+Title:
+Analyzing laboratory data to enable future studies of habitable exoplanets
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Ames Research Center
+
+Building:
+N244
+
+Room:
+lab
+
+Description:
+This internship involves collecting and analyzing infrared detector data from a testbed used to simulate observations of transiting exoplanets with future space telescopes. The intern will learn about detecting infrared light and how to analyze these signals for small variations. The work will involve analysis of data using python and some standard astronomy software tools, and it may also involve some data collection activities. Students should have some familiarity with physical science data visualization or analysis, python or other data analysis tools, and basic computer programming. Familiarity with the Apple Macintosh computing environment and imaging data would be beneficial.
+
+Computer/Software Skills:
+Students should have some familiarity with physical science data visualization or analysis, python or other data analysis tools, and basic computer programming. Familiarity with the Apple Macintosh computing environment and imaging detector data would be beneficial.
+
+Technical Skills:
+Laboratory data collection with electronic instrumentation or statistical data analysis skills are desirable.
+
+Other Skills:
+Good verbal and written communication skills are important.
+
+Academic Level(s):
+College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Data Processing; Mathematics - Applied; Mathematics - Mathematics and Statistics; Mathematics - Statistics; Physical Science - Astronomy and Astrophysics; Physical Science - Physics
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+Title:
+Antarctic clouds and blowing snow, and their interaction with the surface
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Goddard Space Flight Center
+
+Building:
+33
+
+Room:
+B323
+
+Description:
+The earth’s Arctic and Antarctic regions are experiencing unprecedented changes, which will have profound effects on the global climate, society and biodiversity. Compared to other parts of the world, Antarctica has many fascinating and distinctive features that can affect the local and even global climate. This research focuses on studying the properties of Antarctic clouds and blowing snow, and their interaction with the surface using observations from NASA satellites. Compared to clouds, blowing snow is less studied. Our studies have shown that snow be lifted up by wind and form spectacular blowing snow storms that extend hundreds of meters vertically and thousands of square miles horizontally. These storms can be seen from satellite observations and are very important to the earth's climate system. Depending on the background of the students, the tasks can range from separating clear from clouds and blowing snow using satellite imagery, determining their properties, to investigating their effects on the energy budget over Antarctica.
+
+Computer/Software Skills:
+Good computer programming skills are needed for the project; programming language Python/IDL preferred; experience with linux/unix/mac systems is a plus.
+
+Technical Skills:
+Data analysis skills are helpful.
+
+Other Skills:
+Self-motivated team player.
+
+Academic Level(s):
+College Junior;College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Entry/Microcomputer Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Computer; Engineering - Geological/Geophysical Engineering; Engineering - Ocean; Engineering - Physics; Mathematics; Mathematics - Applied; Mathematics - Mathematics and Statistics; Mathematics - Statistics; Multi-disciplinary - Computational Science; Multi-disciplinary - Mathematics and Computer Science; Multi-disciplinary - Natural Sciences; Physical Science - Atmospheric Sciences and Meteorology; Physical Science - Geological and Earth Science/Geosciences; Physical Science - Physics
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+Title:
+AQUIFER
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Armstrong Flight Research Center
+
+Building:
+4800
+
+Room:
+1013
+
+Description:
+To develop a computer tool to produce automatic labyrinthine paths for our flow battery technology, given a initial form factor.
+
+Computer/Software Skills:
+Ideally Matlab or Python script.
+
+Technical Skills:
+
+
+Other Skills:
+
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Engineering - Computer
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+
+
+Title:
+ARCSTONE IIP Instrument and Ground Software
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Langley Research Center
+
+Building:
+1202
+
+Room:
+123
+
+Description:
+The ARCSTONE IIP is an instrument development project that is raising the technology readiness level of an instrument for measuring lunar irradiance. The instrument will consist of two detectors, and a processor board for control, monitoring, and data collection. The final ARCSTONE instrument will be onboard a cubesat and will communicate with the spacecraft bus for commands and telemetry. There are several possible projects that may be part of this internship, depending on the intern's experience and interests, as well as the needs of the ARCSTONE IIP. The ground tools that may be developed by the intern include: 1) LabWindows program for doing control and data acquisition of thermal controllers (TECs) for controlling the thermal environment of the detector's optics. 2) Extensions to a Python program for visualizing detector data as a quick-look of the images it produces. This is an existing tool used for testing the ARCSTONE instrument in the field. 3) Extensions to the ARCSTONE IIP Ground System, which is a tool based on Ball Aerospace's COSMOS Ground System written in Ruby. 4) Development of modules for the ARCSTONE IIP instrument software. This software is written in C and is based on Core Flight Software. This project would involve working with hardware interfaces.
+
+Computer/Software Skills:
+Depending on the project selected for the internship, which will be determined by the candidate and the ARCSTONE IIP software lead based on the project's needs and the intern's abilities and interests, a variety of technologies may be used. For instrument software, the intern will be required to know or learn C and embedded systems programming. Experience with CFS is not required. For extending the ARCSTONE IIP ground system, the intern would need to know or learn Ruby. For developing tools for the project, the intern would need to know or learn C and the LabWindows development environment. Experience with LabWindows is not required. For the ARCSTONE Field Test, the intern would need to know or learn Python and the Qt GUI framework.
+
+Technical Skills:
+The project is a science instrument, and experience or interest in climate observation is a plus, but not required. The technical skills needed are around programming- there are no other required skills. Embedded systems programming experience or interest is a plus. Experience with Linux is a plus for developing ARCSTONE IIP instrument software.
+
+Other Skills:
+The internship will require working with the ARCSTONE IIP team consisting of engineers for different disciplines, as well as scientists, to ensure that the software developed meets the project's needs. This requires communication and teamwork to produce high quality software that is developed according to need, and meets the project's schedule. This software also will undergo a level of review and test, and requires documentation description its design, development, and use.
+
+Academic Level(s):
+College Freshman;College Sophomore;College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Data Processing; Engineering - Computer; Multi-disciplinary - Mathematics and Computer Science; Physical Science - Physics; Science Technology - Physical Science Technologies/Technicians; Science Technology - Science Technologies/Technicians
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+Title:
+Artificial Intelligence & Machine Learning Applications in Requirement Tailoring
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+20
+
+Room:
+142
+
+Description:
+We are looking for self-motivated interns who have knowledge in information technology, artificial intelligence, machine learning, and software application development to develop a requirement tailoring tool for JSC Safety and Mission Assurance. NASA has over several thousands of requirements. It is sometimes difficult to figure out manually if a requirement is applicable to a center, to a flight program, or to a research project. It is the goal of this project to develop a software tool that is similar to one of those income tax filing software. The software tool will ask the users to gather specific information about the program or project. It will then generate a set of requirements that are applicable ('tailored') to that program or project.
+
+Computer/Software Skills:
+Ability to write computer codes in one of the popular programming languages Ability to use Windows OS or iOS computer Proficient in MS Excel Ability to work with databases
+
+Technical Skills:
+Ability to process high volume of data or requirements, to understand the information, and then to use logics to make applicability decisions.
+
+Other Skills:
+Excellent written communication skills Excellent oral communication skills Excellent organizational skills Ability to work in a team
+
+Academic Level(s):
+
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Augmented Reality Application Dev. for NASA's Advanced Operations Concept Lab
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+32
+
+Room:
+204
+
+Description:
+The student will be part of a multi-discipline team in NASA's Advanced Operations Concepts Lab and entail developing application for various augmented reality headsets (Hololense, MagicLeap, Meta2, etc.) using various programming languages/environments. These applications will support training and real-time operations. Other technologies that may be investigated include: Deep Learning and A.I., eye tracking, 3D printing, and some minor 3D modeling.
+
+Computer/Software Skills:
+C/C++, C#, Unity, Unreal, Deep Learning, Neural Networks, MATLAB, Mathematica, Visual C++, Microsoft Windows
+
+Technical Skills:
+
+
+Other Skills:
+Ability to work in a team, self motivated.
+
+Academic Level(s):
+
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+Center Operations Mission
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+Title:
+Autonomous Systems and Operations for Rocket Test and Space Exploration
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Stennis Space Center
+
+Building:
+8306
+
+Room:
+109
+
+Description:
+The intern will be involved in on-going development of the NASA Platform for Autonomous Systems (NPAS), a software platform that is being used to develop autonomous systems on ground and in space. The intern will also contribute directly to on-going use of NPAS to turn rocket test systems at Stennis into autonomous systems, and to development of autonomous space habitats and other systems needed to establish settlements on the Moon and Mars. The activities involve learning new paradigms for programming using the G2 software environment, which was created specifically to develop real-time intelligent applications; and becoming familiar with the design and operations of the target systems (e.g. rocket engine test facilities or space habitat) in the context of modeling and analysis approaches for autonomy.
+
+Computer/Software Skills:
+The interest and desire to learn to develop intelligent applications using the G2 software environment. Familiarity and/or experience programming in languages such as C, MatLab, and LabWindows; or similar.
+
+Technical Skills:
+Junior standing in engineering or computer science is ideal.
+
+Other Skills:
+
+
+Academic Level(s):
+
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+Human Exploration and Operations Mission
+Space Technology Mission
+
+Title:
+Command and Control System Software Development
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Kennedy Space Center
+
+Building:
+OSBII
+
+Room:
+1213B
+
+Description:
+This internship consists of developing software for a launch control system. The tasks may include but are not limited to writing software, debugging, troubleshooting, participating in and/or facilitating code inspections, writing and/or fixing unit tests, executing unit tests, analyzing automated test output and assisting with enhancing an automated test framework. The student will have a mentor as well as a technical point of contact throughout the internship- both of which are available to address any questions. The intern will be assigned technical tasks from the technical point of contact. The intern will write a project plan at the start of the internship that will outline the tasks which will be completed during the semester, as well as a final technical report detailing the work done throughout the internship. Training on the specific software development process tools that are used on the project will be provided. A project overview and background information will be provided to the intern as well.
+
+Computer/Software Skills:
+C++, Java, Python, XML, Shell Scripting, development on Unix-flavored operating system(s), debugging, unit test frameworks and automated testing, and troubleshooting software defects.
+
+Technical Skills:
+Ability to perform code inspections, troubleshoot software defects, and perform unit testing. Knowledge of configuration management tools desired but not required. Technical writing skills desired.
+
+Other Skills:
+Will be working with other interns, technical leads, and other full time employees. Need to be able to communicate effectively on a technical level. May be required to perform tasks where leadership skills will be beneficial. Self-motivated and willing to learn new skills.
+
+Academic Level(s):
+College Freshman;College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Information Science/Studies; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Engineering - General; Engineering - Science; Mathematics; Mathematics - Applied; Mathematics - Mathematics and Statistics; Multi-disciplinary - Mathematics and Computer Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+Computational Studies in Hypersonic Aerothermodynamics
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Langley Research Center
+
+Building:
+1251
+
+Room:
+204
+
+Description:
+Work with researchers simulating hypersonic flow fields for aerothermodynamic characteristics such as aerodynamics, convective heat transfer, boundary layer properties, and visualization. The student will work in the Aerothermodynamics Branch at NASA Langley. Students will assist in performing numerical simulations, including pre- and post-processing, data reduction, code support and maintenance, testing, and development tasks, depending upon education level and experience.
+
+Computer/Software Skills:
+Programming ability is desired.
+
+Technical Skills:
+Exposure to Computational Fluid Dynamics is desired.
+
+Other Skills:
+
+
+Academic Level(s):
+College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Mechanical; Mathematics - Applied; Physical Science - Physics
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+Title:
+Computer Engineering & Network Engineering
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Kennedy Space Center
+
+Building:
+LCC
+
+Room:
+4P2
+
+Description:
+In order to enable human exploration throughout deep space, the control system for checkout and launch of NASA's next generation vehicle is being built at the Kennedy Space Center. In this opportunity, the student will work with the Network/Firewall team to sustain the network design of the project. The student will gain knowledge in the field of networks while also: 1. Learning the concept of Network Architecture and Network Theory. 2. Learning the Project’s Network Design. 3. Assisting Engineers in the configuration of networking systems. 4. Assisting Engineers with network documentation. Furthermore, the student might be asked to support some software sustaining duties as needed. At the end of the internship, the intern will write a report and give a presentation of his/her learning experiences during their employment period to members of the Exploration Systems & Operations Division.
+
+Computer/Software Skills:
+Knowledge or interest in network engineering is required. Previous experience with Linux OS is preferred. Previous experience with UNIX based systems is preferred. Previous programming experience is required, preferably in Java, JavaScript or C/C++.
+
+Technical Skills:
+
+
+Other Skills:
+
+
+Academic Level(s):
+College Freshman;College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Engineering - Computer
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Computer/Software Engineer
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Wallops Space Flight Center
+
+Building:
+E-109
+
+Room:
+268
+
+Description:
+Intern will be responsible for reviewing capabilities of commercial and Department of Defense-engineered government-off-the-shelf graphics and mapping toolkits available to meet Wallops Range-Safety data display (RDDS) system requirements. Development of computer applications using NASA 589 lab resources that interface Wallops range radar and telemetry data sources into toolkits is required. Testing, analysis and compilation of all toolkit performance results into a trade study format that describes capabilities to meet RDDS hardware and software requirements.
+
+Computer/Software Skills:
+C, C++, Qt, python programming skills; Linux and Windows 10 operating system skills
+
+Technical Skills:
+Using various lab network and timing equipment and software tools that simulate Wallops range data flows during a mission launch. Specialized tools include Range Data Acquisition Computer (RADAC) and NetAcquire configurations, Range Auxiliary Processor (RAPS), NASA communication (NASCOM), NASA 598 Portable Object Simulator. Note: Some minimum training is provided for novice lab equipment users.
+
+Other Skills:
+MS Word documentation, EXCEL and PowerPoint presentation skills are required. Ability to work independently and with other group members on the Range Data Display System (RDDS) team.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Systems Analysis; Engineering - Computer; Engineering - General; Mathematics; Mathematics - Applied
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+
+Title:
+Computer/Software Engineer
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Wallops Space Flight Center
+
+Building:
+E-109
+
+Room:
+268
+
+Description:
+Intern will be responsible for reviewing capabilities of commercial and Department of Defense-engineered government-off-the-shelf graphics and mapping toolkits available to meet Wallops Range-Safety data display (RDDS) system requirements. Development of computer applications using NASA 589 lab resources that interface Wallops range radar and telemetry data sources into toolkits is required. Testing, analysis and compilation of all toolkit performance results into a trade study format that describes capabilities to meet RDDS hardware and software requirements.
+
+Computer/Software Skills:
+C, C++, Qt, python programming skills; Linux and Windows 10 operating system skills
+
+Technical Skills:
+Using various lab network and timing equipment and software tools that simulate Wallops range data flows during a mission launch. Specialized tools include Range Data Acquisition Computer (RADAC) and NetAcquire configurations, Range Auxiliary Processor (RAPS), NASA communication (NASCOM), NASA 598 Portable Object Simulator. Note: Some minimum training is provided for novice lab equipment users.
+
+Other Skills:
+MS Word documentation, EXCEL and PowerPoint presentation skills are required. Ability to work independently and with other group members on the Range Data Display System (RDDS) team.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Systems Analysis; Engineering - Computer; Engineering - General; Mathematics; Mathematics - Applied
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+
+Title:
+Digital Transformation Rapid Development Intern Team
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Langley Research Center
+
+Building:
+2103
+
+Room:
+111
+
+Description:
+NASA Langley Research Center is transforming to modernize work methods and digital tools to be as cutting-edge as possible. We seek multi-person, multi-skill intern teams to work in agile fashion, rapidly prototyping new scientific and mobile applications. The team will consist of a mix of software development, web development, data science, computer science, agile project methods, augmented & virtual reality, and IT security skills. Applicants must have knowledge or experience several (but not all) of the previously mentioned skill sets. In addition, applicants must be highly-motivated, self-starting, mission-focused team players. Computer skills should include several of the following: Java, Java Script, C++, R, Python, HTML 4/5, GitHub, Amazon Web Service micro-services / cloud, Splunk, Unity, Google G suite, MS Office, or other similar tools. The team senior mentor is the Langley Research Center Associate CIO for Technology & Innovation, who will work with additional transformation-focused CIO leaders to guide, challenge, and encourage the intern team.
+
+Computer/Software Skills:
+Computer skills should include several of the following: Java, Java Script, C++, R, Python, HTML 4/5, GitHub, Amazon Web Service micro-services / cloud, Splunk, Unity, Google G suite, MS Office, or other similar tools.
+
+Technical Skills:
+We seek multi-person, multi-skill intern teams to work in agile fashion, rapidly prototyping new scientific and mobile applications.
+
+Other Skills:
+In addition, applicants must be highly-motivated, self-starting, mission-focused team players.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Entry/Microcomputer Applications; Computer and Information Sciences - Information Science/Studies; Engineering - Computer; Multi-disciplinary - Accounting and Computer Science; Multi-disciplinary - Computational Science; Multi-disciplinary - Human Computer Interaction; Multi-disciplinary - Mathematics and Computer Science; Multi-disciplinary - Science / Technology and Society; Multi-disciplinary - Systems Science and Theory
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+Title:
+Hermes (ISS Payload)
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+29
+
+Room:
+TBD
+
+Description:
+Hermes is an ISS payload that is being developed to host regolith and granular material science investigations. The Hermes Facility will be hosting 4 science experiments that have been integrated into a single Cassette. Hermes is looking for a team member that will be able to help develop a command interface for operators and/or develop a methodology for processing data gathered from cassette experiments.
+
+Computer/Software Skills:
+Hermes is looking for a team member that is proficient in the Microsoft Office suite (Word, PowerPoint, and Excel), computer programming (Python) and/or database management.
+
+Technical Skills:
+A background in Electrical Engineering is desired but not required.
+
+Other Skills:
+Hermes is looking for a team member that help with hardware certification documentation, inventory, and potentially assist with the Experiment Solicitation Process.
+
+Academic Level(s):
+College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Entry/Microcomputer Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Engineering - Mechatronics / Robotics / Automation Engineering
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Extended Reality Technology Development Internship
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Kennedy Space Center
+
+Building:
+O&C
+
+Room:
+2255
+
+Description:
+The work will involve investigating the capabilities of a number of leading edge technologies in the realm of Extended Reality (XR): Augmented Reality (AR), Virtual Reality (VR), Mixed Reality (MR) and the Natural User Interface (NUI). The student will perform hands-on work with hardware and software associated with the Microsoft Kinect, HTC Vive, Microsoft Hololens, Leap Motion, among others. The objective is to integrate these technologies into an environment designed to explore alternative Human-Computer Interaction (HCI) methodologies. Work will also include developing software tools for converting and importing 3D Computer Aided Design (CAD) models into a format compatible with the Unity virtual environment.
+
+Computer/Software Skills:
+Student should be familiar with programming languages C++, C#, and Python. Microsoft Visual Studio and Unity are some of the primary software development tools in use in the lab. Object-oriented programming, computer architecture and networking skills are high priority. Experience with machine learning and artificial intelligence are a big plus.
+
+Technical Skills:
+A solid grounding in advanced mathematics (algebra, trigonometry, calculus, physics) is important for understanding the fundamentals of 3D model and simulation development. Experience with 3D CAD model development tools such as SolidWorks or Catia is highly desirable. While not required, some background in aerospace, electrical, and/or mechanical engineering is helpful.
+
+Other Skills:
+Visual thinking is a big plus. The ability to visualize the results of a project is a highly prized tool in the lab. As much of the development work being done is experimental, and uses new tools in their infancy on the market, thinking outside the box is also a much sought-after capability. The ability to communicate and express ideas clearly, both in verbal and written forms, is crucial.
+
+Academic Level(s):
+College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Engineering - Computer; Multi-disciplinary - Computational Science; Multi-disciplinary - Human Computer Interaction; Multi-disciplinary - Mathematics and Computer Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+
+Title:
+Fluidized Bed Experimentation for Hybrid Propulsion Applications
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Langley Research Center
+
+Building:
+1221
+
+Room:
+204
+
+Description:
+The purpose of this project will be to conduct experimental design, analysis, and execution of high pressure, dense phase fluidized bed experiments with application to the development of hybrid propulsion rocket and ramjet fueling systems. Interns will be expected to coordinate with the Principal Investigator, facilities coordinators, safety engineers, standard practice engineers for pressurized systems, and environmental personnel to ensure experiments are carried out effectively, safely, and with high fidelity as pertains to the collection of data.
+
+Computer/Software Skills:
+Selected applicants will be expected to be able to learn or have prior experience in the Python scripting language as well as using/designing LabVIEW interfaces on a Windows 10 computing platform
+
+Technical Skills:
+Selected applicants will be expected to be able to learn or have prior experience in data analysis, experimental design, developing or executing test objectives, and conducting mechanical design of pressure system interconnects and tubing.
+
+Other Skills:
+Selected applicants will be expected to complete detailed experimental documentation and present their results to specialist and general technical audiences at the conclusion of the internship.
+
+Academic Level(s):
+College Junior;College Senior;Doctorate;Master’s
+
+Major(s):
+Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Chemical; Engineering - Chemistry; Engineering - Electrical / Electronics / Communications Engineering; Engineering - Mechanical; Mathematics; Physical Science - Chemistry; Physical Science - Physics
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Space Technology Mission
+
+Title:
+FOD/CO75 Procedures Team Support
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+4S
+
+Room:
+1328
+
+Description:
+Intern will assist with Procedures ground (control center) and onboard (crew) tool development and test, and training updates for ISS and CST-100 crews.
+
+Computer/Software Skills:
+Software skills: Microsoft Office Suite (Word, Excel, Powerpoint), SharePoint useful, but not required: Javascript, , CSS, Python, Wiki, Visual Basic, XML
+
+Technical Skills:
+Software testing. Using a test plan. Video recording.Technical writing
+
+Other Skills:
+Clear concise oral and written communication. Self-motivation. Teamwork. Responsiveness. Integration
+
+Academic Level(s):
+College Sophomore
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - General; Engineering - Industrial; Engineering - Mechanical; Engineering - Mechatronics / Robotics / Automation Engineering; Engineering - Operations Research; Engineering - Petroleum
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Headquarters Data Science Internship
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Headquarters
+
+Building:
+HQ
+
+Room:
+2P23
+
+Description:
+In pursuit of its exploration mission, NASA has generated, collected and compiled a vast amount of data through the eyes of satellites, telescopes, robots, and the cameras of astronauts that has helped us better understand Earth, other planets, and the depths of space. These data - from enormous technical and scientific datasets, to records, images and personal stories - are one of the Agency's most valuable assets and must be understood and managed accordingly. The Agency's future mission success requires effective and scalable methods to access, manage and interpret, and leverage data. Our team is in the business of ushering in this future state. Our team is a dynamic, fast-paced NASA team working on mission critical challenges that combine expertise in data, science, experimentation and discovery. You will work on data analytics, data science, and data engineering projects to enable data-driven decisions and insights. We are looking for data science candidates that have the ability to formulate problems, prototype solutions, and to analyze results and are excited about shaping the future of NASA. The Data Science Intern will: - Munge and analyze data. - Develop algorithms and write code to perform data analytics and modeling - Experiment with different software packages and visualization tools - Provide technical assistance on data-related deliverables - Create and deliver reports, documentation, and presentations of project work and results - Work with a distributed team in a digital-first and highly- collaborative environment - Explain and communicate your methodologies to team members and clients
+
+Computer/Software Skills:
+Candidates with at least intermediate programming skills are strongly preferred. Experience using and learning software for statistics, modeling, or other analytical tasks, such as R, SAS, or Python is preferred. The ideal candidate will possess a demonstrated ability to quickly learn new libraries, modules, programs, and other skills necessary to complete a task, and will possess experience organizing, cleaning, and analyzing data - Experience with software or web development preferred. Experience with data analytics software and visualization tools.
+
+Technical Skills:
+The ideal candidate should be currently pursuing an undergraduate degree in engineering, computer science, math, physics, information systems, data science, or data analytics. - A cumulative GPA of 3.5 required - Strong analytical and statistical/mathematical skills (e.g., hypothesis testing, regressions).
+
+Other Skills:
+Strong ability to communicate methodology and results to audiences of different technical levels, including the product and leadership teams. Comfortable working in a fast-paced, entrepreneurial environment
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior
+
+Major(s):
+Biological Science - Biomathematics / Bioinformatics / Computational Biology; Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Entry/Microcomputer Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Engineering - Physics; Engineering - Science; Engineering - Systems; Mathematics; Mathematics - Applied; Mathematics - Mathematics and Statistics; Mathematics - Statistics; Multi-disciplinary - Computational Science; Multi-disciplinary - Mathematics and Computer Science; Science Technology - Science Technologies/Technicians; Social Science - Economics; Other; Other; General; General; General; Engineering; Engineering; Engineering; Applied Mathematics; Computer Science; Computer Programming; Mathematics and Statistics; Mathematics and Statistics; Physics; Statistics; Computer and Information Sciences; Biomathematics; Bioinformatics; and Computational Biology
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+
+Title:
+High Performance Computing in Entry, Descent, and Landing
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Langley Research Center
+
+Building:
+1209
+
+Room:
+150
+
+Description:
+The opportunity will involve investigating methods and algorithms involved in Entry, Descent, and Landing to better utilize High Performance Computing (HPC) resources. Initial focus will be on flight dynamics software. HPC resources include local and remote clusters of multiple compute architectures (multicore CPUs, KNLs, GPUs, etc.). Computations performed will potentially aid in both trajectory simulation and trajectory reconstruction.
+
+Computer/Software Skills:
+Proficiency in a low-level programming language, C preferred. Experience in a UNIX environment. Knowledge of POST2 and HPC methodologies is desired.
+
+Technical Skills:
+
+
+Other Skills:
+
+
+Academic Level(s):
+College Junior;College Senior;Doctorate;Master’s
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - General; Mathematics - Applied; Multi-disciplinary - Mathematics and Computer Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+Space Technology Mission
+
+Title:
+Human Factors Engineering Virtual Reality/Augmented Reality Internship
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Marshall Space Flight Center
+
+Building:
+4649
+
+Room:
+101
+
+Description:
+The Marshall Space Flight Center (MSFC) Human Factors Engineering Team is responsible for design of human interfaces to flight and ground systems. Currently evaluations of conceptual designs are being completed that will enable human missions Beyond Low Earth Orbit. These missions will require onboard autonomy – informed decision-making capability – beyond any current spaceflight experience. Decisions now made by ground controllers (for example, to manage ISS payloads and systems) will need to be made by flight crews, and maintenance activities will need to be planned and executed by onboard crews, rather than ground teams. The project for this internship will be to further develop existing Virtual Reality concepts and develop new environments that will be used to assess potential Deep Space designs. The work will be performed in the Virtual Environments Laboratory (VEL), part of MSFC's Deep Space Habitat mockup facility. The VEL includes Motion Capture, Virtual Reality and Augmented Reality capabilities that may be incorporated into this project.
+
+Computer/Software Skills:
+Potential skills include, but are not limited to: Essential Software: Unity3D, Lightwave Bonus Software: Unreal Engine, Pro Engineer/Creo Hardware: HTC Vive, Oculus, HP-Z Computers, MoCap Languages: C# or JavaScript (used in Unity3D)
+
+Technical Skills:
+There is a need for some computer programming that is not essential, but helpful. Graphic Design is a tool that would be very helpful in texturing and building the environment.
+
+Other Skills:
+This position will involve working with a team of Architects, Engineers, and Engineering Techs to develop Virtual Reality concepts for analysis. Good communication and the willingness to ask questions, listen, and learn new things will be essential. Good organization skills will be necessary to work the multiple departments involved. This position is for someone that is highly motivated and a self starter.
+
+Academic Level(s):
+College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Engineering - Computer; Engineering - General; Multi-disciplinary - Human Computer Interaction; Visual and Performing Arts - Design and Applied Arts
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Human Interface Developer of the HIVE (Human Integrated Vehicles and Environment
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+29
+
+Room:
+233
+
+Description:
+Looking for a student with strong background in computer programming and web development to aid in the research, development, integration and testing of next generation graphical user interfaces for human space flight and developing systems.
+
+Computer/Software Skills:
+Basic programming experience (C++, C#, JAVA or equivalent languages) and HTML5/CSS/JS experience DESIRED ADDITIONAL SKILLS (not required): - Experience UI/UX methodology and design - Experience with Node.js, Express framework, and socketio.js - Interest or experience in design and/or rapid prototyping - any other programming or graphics experience is beneficial (LabVIEW, WebGL, Android, etc.)
+
+Technical Skills:
+Computer skill listed above
+
+Other Skills:
+Ideal candidate is a self starter, high energy, flexible, and looking to work in a fast paced innovative environment.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master’s
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Information Science/Studies; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Multi-disciplinary - Computational Science; Multi-disciplinary - Mathematics and Computer Science; Other-Not Listed
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Library and the Multimedia Repository Assistance
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+30a
+
+Room:
+1077
+
+Description:
+• Create library training tools for customers using multimedia. • Pull usage stats for e-subscriptions. • Create a series of JSC Today notices to run periodically to promote library tools. • Handle simple known item requests. • Clean up Serials Solutions. • Collection development recommendations for end of year money. • Assist with migration projects in the Multimedia Repositories (MMR).
+
+Computer/Software Skills:
+Microsoft Office, SharePoint; Library Software knowledge – Sirsi or Serials Solutions a plus
+
+Technical Skills:
+Student who is working on their Master’s in Library Science (MLS) or Master’s in Information and Library Science (MLIS).
+
+Other Skills:
+Self-motivated, any library experience, any imagery experience, some knowledge of NASA
+
+Academic Level(s):
+College Senior;Master's;Doctorate
+
+Major(s):
+Multi-disciplinary - Historic Preservation and Conservation; Other-Not Listed
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+Human Exploration and Operations Mission
+
+
+Title:
+Mishap File Organization
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+20
+
+Room:
+229
+
+Description:
+Safety and Mission Assurance is the custodian of record of all mishap files for the Center. A large number of those mishap files are still in hard-copy format and are not organized in any fashion following relocation to Building 20. The selected intern would be sorting the hard-copy files, organizing according to date, removing duplicates, verifying scanned status, and scanning those that are not in the electronic records.
+
+Computer/Software Skills:
+Basic Windows and MS Office Skills
+
+Technical Skills:
+Selected intern would need good organizational skills.
+
+Other Skills:
+Routine communication skills, ability to work somewhat independently, good organizational skills
+
+Academic Level(s):
+High School;College Freshman;College Sophomore
+
+Major(s):
+High School - Other Interest
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+Modeling and Simulation
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Kennedy Space Center
+
+Building:
+OSB1
+
+Room:
+3111
+
+Description:
+This position is the with Modeling and Simulation team on the Spaceport Command & Control System project at NASA/KSC. In addition to our responsibilities of developing simulation software for the command & control system, we provide tools to improve the software development process and lifecycle. This student opportunity will be to design and develop a model components and/or related simulation software to enhance the simulation software developer's work. We have a number of tasks in mind that could be worked during the term based on the applicant's skills and abilities. The expected outcome of this opportunity will be fully tested software that can be used by the simulation software development team, along with operation documentation and users guide as appropriate in addition to an overall intern experience report.
+
+Computer/Software Skills:
+Knowledge of general software development lifecycle and process is recommended. Experience writing software using one or more of the following languages is recommended: C, C++, Perl, PLC Ladder Logic, etc. Knowledge of the following tools is recommended: MatLab, Simulink, MiMic, AutoCAD, or other modeling and drawing tools.
+
+Technical Skills:
+Knowledge of the following tools is recommended: MatLab, Simulink, MiMic, AutoCAD, or other modeling and drawing tools.
+
+Other Skills:
+Accountability Plans, organizes, and prioritizes own work activities to complete assignments in a timely and effective manner; Takes responsibility for own actions, whether or not they are successful. Communication Interprets and appropriately responds to written, verbal, and non-verbal communications; Communicates issues clearly and concisely in an timely, accurate, concise, and courteous manner. Compliance Demonstrates satisfactory judgment in applying guidelines to the duties of the position Critical Thinking Gains a thorough understanding of moderately complex situations or problems by identifying key issues and assumptions and collecting accurate, relevant, and complete information. Customer Service Interactions with customers are professional and courteous Decision Making Uses readily available information sources to meet expectations. Flexibility / Creative Thinking Handles routine issues well. Responses and solutions meet expectations of the position. Oral Communication Communications are typically open and truthful. Employee expresses themselves clearly and appropriately. Ideas are clearly understood by others. Problem Solving Meets expectations in the identification and recognition of issues. Safety Aware of and complies with safety and occupational health standards. Maintains a safe environment. Takes timely action to correct violations. Teamwork and Collaboration Contributes to achieving goals by working collaboratively and building effective partnerships across organizations; Demonstrates awareness of responsibility to provide information and actively seeks opportunities to share knowledge, skills, and lessons learned within and beyond own work division. Technical Competence Demonstrated standard level of understanding of the subject matter . Written Communication Employee expresses themselves clearly and appropriately.
+
+Academic Level(s):
+College Junior
+
+Major(s):
+Computer and Information Sciences - Computer Science; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Engineering - Mechanical; Engineering - Systems; Engineering Technology - Electrical Engineering Technologies/Technicians
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Next Generation Scientific Data Visualization and Display Techniques
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Ames Research Center
+
+Building:
+N232
+
+Room:
+151-10
+
+Description:
+• Do you have a passion for exploration? Do you want to help an operational program currently flying new missions every week? Are you driven to help lead the next steps in exploration? Then this may be the opportunity for you!! • The Stratospheric Observatory For Infrared Astronomy (https://www.nasa.gov/mission_pages/SOFIA/index.html) Science Instrument Development Team is looking for passionate, driven, excited team members to help us with multiple new projects underway right now. • Next Generation Scientific Data Visualization and Display Techniques •• The SOFIA Program has just completed a worldwide request for the next great science instrument for SOFIA! •• NASA is currently working to select proposals for the next phase of development •• The SOFIA Program has a huge library of scientific data across numerous scientific observation campaigns across the planet •• Your task will be to: ••• Review the existing scientific data and visualizations SOFIA currently uses ••• Use your creativity and innovative skills to develop improvements to existing scientific data displays ••• Provide a detailed report to the SOFIA Science Instrument Development team and newly selected proposal developers concerning how we can improve data visualizations ••• Your effort will lead to new visualization tools and concepts that will be used for the next great instrument in the NASA instrument suite
+
+Computer/Software Skills:
+Microsoft Office Suite or equivalent Microsoft Word or equivalent Microsoft PowerPoint or equivalent Microsoft Excel or equivalent
+
+Technical Skills:
+Graphic design Social media
+
+Other Skills:
+Great communicator and communications skills Ability to work to deadlines Ability to work with a team - both local and worldwide
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master's;Doctorate;Post-Doctoral;Educator
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+
+Title:
+OSCAR Waste Conversion Technology Development: Computer Engineer
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Kennedy Space Center
+
+Building:
+SSPF
+
+Room:
+2082
+
+Description:
+The OSCAR project focuses on converting astronaut trash into usable gas in a microgravity environment. The project will require testing in drop towers as well as a suborbital flight. At the start of the internship, the project will be in the process of shifting gears towards a suborbital flight. You will be responsible for continuing testing of the microgravity drop tower experiment as well as developing and maturing the reactor acquisition and control system. The waste will be in a reactor or small test cell and you will write LabVIEW code to control heaters and solenoid valves while acquiring data from pressure transducers and thermocouples. You will be responsible for working independently and in a team setting. You will be required to learn the test procedure, run experiments, record, collect and interpret data and results. Handling of tools, wiring end components and lab hardware is required. Experience in LabVIEW is highly recommended. You will be involved in a team setting where weekly reports of data are provided, and final presentations are given. You will also be involved in report writing and providing feedback for the design and development of space waste conversion so that astronauts can close the loop on space waste and enable sustainable long duration space exploration. This work will encompass Electrical, Software and Computer engineering, and willingness to work hard and be flexible on a day to day basis.
+
+Computer/Software Skills:
+MS Office Suite, LabVIEW, DIAdem, Excel, and other programming languages.
+
+Technical Skills:
+
+
+Other Skills:
+
+
+Academic Level(s):
+College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Science; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Space Technology Mission
+
+Title:
+Science Education Intern: Testing & Developing Resources for Teachers
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Langley Research Center
+
+Building:
+1250
+
+Room:
+147
+
+Description:
+This opportunity is for an individual with education, curriculum and instruction, or Earth science experience to work with members of NASA Langley’s Science Education Team to assist in the beta testing of My NASA Data, portal for NASA Earth science education resources and data visualization tool. These efforts may include review of the resources, as well as development of related assets. The intern will also be expected to perform tasks related to general education and public outreach of the MND program.
+
+Computer/Software Skills:
+• Experience retrieving data for various visualization tools • Review and beta test new web pages • Proficient in spreadsheets, Google Drive, presentation, • Knowledge of PDF editors, graphic design, video production software are a plus
+
+Technical Skills:
+
+
+Other Skills:
+Able to work independently, stay focused on key priorities and deadlines • Work collaboratively with a team • Prioritize tasks and ask for clarification when needed • Present tasks for feedback and review
+
+Academic Level(s):
+College Junior;College Senior
+
+Major(s):
+Education - General; Education - Teacher Education and Professional Development / Specific Levels and Methods; Multi-disciplinary - Biological and Physical Sciences; Multi-disciplinary - Natural Sciences; Multi-disciplinary - Science / Technology and Society; Physical Science - Geological and Earth Science/Geosciences
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+Title:
+Simulation development and analysis of Commercial Crew Vehicle (CCV)
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+16E
+
+Room:
+1118
+
+Description:
+Working with NASA and Contractor team to develop integrated Guidance, Navigation and Control (GN&C) simulation and perform integrated GN&C analysis of Commercial Crew Vehicle (CCV) ascent abort system.
+
+Computer/Software Skills:
+In addition to personal compute OS and Office Suites, intern will be expected to work on Unix/Linux system with the ability to develop software using C/C++, Python, and other programming languages. Proficient use of Matlab/Simulink for engineering analysis is also necessary.
+
+Technical Skills:
+Engineering math (calculus and differential equations) and physics will be applied in the field of spacecraft dynamics and control.
+
+Other Skills:
+Reading technical documents, communicating with team members to coordinate tasks, present data and analysis results, and some technical writing.
+
+Academic Level(s):
+College Sophomore;College Junior
+
+Major(s):
+Computer and Information Sciences - Computer Science; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Mechanical; Engineering - Science; Mathematics - Applied; Physical Science - Physics
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Software Development Intern
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Marshall Space Flight Center
+
+Building:
+4487
+
+Room:
+B218
+
+Description:
+This internship consists the development of automated tools to support the Space Launch System (SLS) Flight Software Design effort. The intern will be part of the SLS Flight Software Tools team developing software using agile software development methodology. The tasks include designing and implementing software, participating in peer reviews/code inspections, developing and executing unit tests, and updating supporting documentations. The tools are developed using web services, as well as stand-alone applications.
+
+Computer/Software Skills:
+C/C++, Python, Linux, XML
+
+Technical Skills:
+
+
+Other Skills:
+The ability to work in a team environment is highly desirable.
+
+Academic Level(s):
+College Freshman;College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Entry/Microcomputer Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+Software support for Computers, Networks & Instrumentation
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+44
+
+Room:
+257
+
+Description:
+Develop software to support all computer designs in the branch. The levels of software include: simple drivers with no operating systems, development of Board Support Packages to interface specific CPU's to specific operating system, application programs ranging from data acquisition systems to full blown control systems. There is also a need for software programmers familiar with any level of the network IP stack. Experience in C, C++, RTEMS and Linux is a plus
+
+Computer/Software Skills:
+Proficient in C/C++, Python. Familiarity with Linux or Real Time Operating Systems a plus.
+
+Technical Skills:
+
+
+Other Skills:
+
+
+Academic Level(s):
+High School;College Freshman;College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Software Test Automation Engineer
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Ames Research Center
+
+Building:
+T35b
+
+Room:
+100
+
+Description:
+The student will collaborate with researchers in the Diagnostics and Prognostics group to develop and mature tests for C++ and Java software products. This includes the development of new unit/integration tests, expansion of existing unit/integration tests, test coverage analysis, use of static analysis tools, and integration of tests into a test automation framework. The student's work will culminate in the creation and maturation of software tests and test environments for the Diagnostics and Prognostics group, along with documentation of the work completed. Additionally, students will create a final poster and powerpoint presentation.
+
+Computer/Software Skills:
+Required: - Familiarity with any unit testing framework - Strong C++ or Java skills - Experience using version control (Git, Mercurial, or SVN) - General experience/familiarity with software development Desired: - Experience with MATLAB and/or Python - Familiarity with Bamboo, or other continuous integration system - Experience with Git
+
+Technical Skills:
+N/A
+
+Other Skills:
+- Excellent verbal and written communication skills - Ability to work in a team
+
+Academic Level(s):
+College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Engineering - Computer
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+
+Title:
+Speckle Imaging Database
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Ames Research Center
+
+Building:
+245
+
+Room:
+147
+
+Description:
+The NASA Ames Research Center Speckle Imaging Group is seeking a qualified intern to assist with data archival and database development. Our group produces the highest resolution imaging possible from a single telescope and currently operates instruments at the WIYN, Gemini-North, and Gemini-South telescopes. These instruments produce a significant volume of data. The intern would be tasked with organizing this data into a modern architecture archive and develop SQL(or similar) and web-based tools to enable visitors to search, access, and review this data. The intern will assist with building software tools to this purpose as well as to assist with observation planning.
+
+Computer/Software Skills:
+Experience with database methods and web-based interfaces for database analysis and access is required. This may include, but it not limited to: C/C++, Python, IDL or other scientific computing languages html, java, PHP SQL
+
+Technical Skills:
+This position does not require any previous lab or astronomical observation skills. Some knowledge of basic astronomy is preferred but not required.
+
+Other Skills:
+Excellent communication and teamwork skills are required.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Physical Science - Astronomy and Astrophysics; Physical Science - Physics
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+
+Title:
+TALiSMAN Machine Learning
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Langley Research Center
+
+Building:
+1293
+
+Room:
+120
+
+Description:
+Assist with machine learning for the TALiSMAN project
+
+Computer/Software Skills:
+
+
+Technical Skills:
+
+
+Other Skills:
+
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+Space Technology Mission
+
+
+Title:
+Urban Air Taxi Simulation
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Armstrong Flight Research Center
+
+Building:
+4840
+
+Room:
+202
+
+Description:
+The student will help to develop a high fidelity simulation of a novel electric, vertical takeoff and landing (eVTOL) urban air taxi aircraft. This simulation will be used for research into flight controls and dynamics, power systems analysis, and passenger ride quality. The simulation may also be used for public outreach at conferences and other events.
+
+Computer/Software Skills:
+Matlab, c/c++, x-plane, and python may be helpful but are not required. Experience with computer graphics may be helpful.
+
+Technical Skills:
+Some programming experience, a basic dynamics class. A controls class is a benefit but not required. Experience with computer graphics may be helpful.
+
+Other Skills:
+The student will be given a difficult task to solve, and should be self-motivated but not afraid to ask for help when needed.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - General; Engineering - Mechanical; Engineering - Physics; Engineering - Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+
+
+Title:
+VIP - Hardware/Software Internship Developing Novel Planetary Robot Sensing
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Ames Research Center
+
+Building:
+269
+
+Room:
+101
+
+Description:
+Assistance is sought at Ames Research Center (ARC) on a research project developing novel sensing methodologies for mobility-limited planetary exploration robots. Research interest has grown in extending the reach of robotic planetary rovers or landers to enable exploration of caves, lava tubes, or other generally inaccessible terrain that may harbor trapped liquid water, exotic geologies, and possible life. Lander-only vehicles are inherently stationary, and existing rovers cannot negotiate such areas. Yet, only by accessing these regions can astrobiologists and geologists complete sampling tasks critical to such discoveries. To provide this reach, we are investigating projectile sensing methodologies in which expendable sensors are lobbed from a mortar-like delivery mechanism, perform sensing in flight, and anchor themselves to continue sensing and data return. These sensors can work in cooperation with mobile robots to extend their reach, provide situational awareness, and long-duration monitoring capabilities. Constellations of deployed sensors can cooperate, communicating wirelessly during flight and once anchored, to provide radio or illuminated landmarks aiding photography, mapping, and mobility operations. Sensor payloads may include cameras, environmental sensors, radio transceivers, and inertial sensors for trajectory reconstruction. A volunteer intern is sought to aid with the continuation and refinement of an existing prototype sensor launching system. This includes aspects of physical projectile design (including aerodynamic shaping), sensor payload selection, electrical/mechanical design and integration, embedded software development, and data processing. Opportunities are available to contribute to any or all of these areas. Specific focus at this time lies in improving projectile enclosure design to improve flight smoothness, expanding wireless communication capabilities, and integrating new sensors, but candidates with interest in any aspect of this work will be considered. Interns joining this project will have the opportunity to work closely with leading experts in robotic computer vision and embedded state estimation developing this system and will have a chance to participate in ongoing real-world trials analyzing the performance of these sensors. For the interested candidate, this presents the chance to greatly expand knowledge and experience in any of a broad number of areas in electronics, mechanisms, and software in cutting-edge research that will lead to important growth in robotic sensing capability vital for upcoming planetary exploration missions. This project is under the Volunteer Intern Program (VIP), it is a volunteer unpaid position. Additional forms will be required for VIP.
+
+Computer/Software Skills:
+Basic programming experience applicable to embedded electronics and/or experience with CAD design software is desired, depending on the aspects of the project of interest.
+
+Technical Skills:
+Basic experience in robotic sensing at a mechanical, electrical, and software level is desired. Stronger experience in one or more of these is a plus.
+
+Other Skills:
+Gaps in specific knowledge are fully expected and will be happily filled in by mentoring researchers. Being a quick learner with ambition and creativity to positively impact upcoming exploration missions is what matters!
+
+Academic Level(s):
+High School;College Freshman;College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Entry/Microcomputer Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Biochemical; Engineering - Chemical; Engineering - Chemistry; Engineering - Civil; Engineering - Computer; Engineering - Construction; Engineering - Electrical / Electronics / Communications Engineering; Engineering - Electromechanical Engineering; Engineering - Environmental/Environmental Health Engineering; Engineering - General; Engineering - Geological/Geophysical Engineering; Engineering - Industrial; Engineering - Manufacturing; Engineering - Materials; Engineering - Materials Science; Engineering - Mechanical; Engineering - Mechanics; Engineering - Mechatronics / Robotics / Automation Engineering; Engineering - Metallurgical; Engineering - Mining and Mineral Engineering; Engineering - Naval Architecture and Marine Engineering; Engineering - Nuclear; Engineering - Physics; Engineering - Polymer/Plastics Engineering; Engineering - Science; Engineering - Surveying; Engineering - Systems; Engineering Technology - Drafting/Design Engineering Technologies/Technicians; Engineering Technology - Electrical Engineering Technologies/Technicians; Engineering Technology - Electromechanical Instrumentation and Maintenance Technologies/Technicians; Engineering Technology - Industrial Production Technologies/Technicians; Engineering Technology - Mining and Petroleum Technologies/Technicians; Engineering Technology - Nanotechnology; Engineering Technology - Quality Control and Safety Technologies/Technicians; Engineering Technology - Technology/Technicians; Mathematics; Mathematics - Applied; Mathematics - Mathematics and Statistics; Mathematics - Statistics; Multi-disciplinary - Mathematics and Computer Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+Space Technology Mission
+
+
+Title:
+Web Developer/ Software Developer
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+1
+
+Room:
+672
+
+Description:
+Opportunity is to assist in the development of new front-end applications for the organization's websites. This includes designing, building, and implementing new Web pages and sites; integrating sites with back-end applications including search tools; migrating legacy applications and data to the Web; and helping with the day-to-day administration of the organization's Web portfolio. General web and or software experience is required. Primary task is to assist in Data Migration of putting unstructured data into a logical format and storing in the ITAR-secured NASA Data Cloud and proving search tools and user interface. Also application development and working with internal NASA customers.
+
+Computer/Software Skills:
+Solid knowledge of HTML, CSS and JavaScript. Familiarity with JQuery, AngularJS and Node.JS Best case would be direct experience as a MEAN stack developer (MongoDB, ExpressJS, AngularJS, Node.js)Must be able to debug and test their own code.
+
+Technical Skills:
+Self-starter, comfortable with minimal tech support.
+
+Other Skills:
+Must have strong written communication skills, familiar with documenting code.
+
+Academic Level(s):
+College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Science
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+WebAD Resource Modeling Application Development
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+4N
+
+Room:
+30
+
+Description:
+The WebAD Resource Modeling tool is an intern-developed project that will be used by the JSC flight control team to determine what resources are needed to correctly model an activity executed on the ISS using the ISS Planning System (OPTIMIS). The intern would take an existing version of application developed by a Fall 2018 Pathways Intern, continue development , as well as implement a testing scheme, receive and incorporate feedback in the tool, document work instructions for maintenance of the code and update to model additional resources as necessary. Additional tasks include development of training materials, including videos, and console support with the Ops Plan team to understand the usage of the tool.
+
+Computer/Software Skills:
+Javascript, HTML, XML, programming
+
+Technical Skills:
+A good knowledge of the software development lifecycle (SDLC)
+
+Other Skills:
+Strong initiative is a necessity. Looking for someone who wants to make things better. A desire to work and collaborate on a team solving a real world problem. Excellent oral and communication skills are highly desirable.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Entry/Microcomputer Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Mechanical
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Wiki Programmer
+
+Type:
+Internship
+
+Session:
+Spring 2019
+
+Center:
+Johnson Space Center
+
+Building:
+20
+
+Room:
+229
+
+Description:
+We are seeking an intern that can program existing content into a wikipedia system. The content documents facilities and activities around Johnson Space Center and is part of the training system for incoming Test Safety Officers. The content is in varying stages of readiness for inclusion and in some cases there may be additional supporting material that must be developed or acquired. The individual selected will periodically work with Test Safety Officers as they go about their duties at JSC so as to get a better idea about how best to present the content.
+
+Computer/Software Skills:
+MS Office Wikipedia (or familiarity with other formatting languages)
+
+Technical Skills:
+Some graphic design help in order to create quality payouts is preferred but not mandatory.
+
+Other Skills:
+English grammar, communications with others
+
+Academic Level(s):
+High School;College Freshman;College Sophomore;College Junior;College Senior
+
+Major(s):
+Communications - Publishing; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Education - Curriculum and Instruction; Education - Educational/Instructional Media Design; Education - General; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Engineering - General; English - Composition; English - Creative Writing; English - Technical and Business Writing; Multi-disciplinary - Interdisciplinary Studies / General
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+2019 NASA SSC ASTRO CAMP Counselor/Intern
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Stennis Space Center
+
+Building:
+Infinity Science Center
+
+Room:
+Conference Area A,B,C,D
+
+Description:
+SSC ASTRO CAMP, hosted at NASA’s John C Stennis Space Center and Infinity Science Center near Bay St. Louis Mississippi, is seeking summer camp college counselor/interns for the 2019 summer season. In this summer camp, you will help deliver award-winning STEM (Science, Technology, Engineering and Mathematics) camps using NASA unique ASTRO CAMP resources and methodology. We are seeking enthusiastic passionate pre-service educators and STEM majors considering education as a career who want to learn new communication / teaching skills transforming educational outcomes and empowering all youth with modern tools of creative discoveries in science, math, engineering and technology. NASA’s ASTRO CAMP at Stennis Space Center offers a fun, engaging program, immersive in a hands-on, practical and applied STEM high energy educational environment. Your focus is motivating, engaging, and increasing academic skills with confidence for students, ages 6 to 16 years in Science, Technology, Engineering, Math, and Art utilizing NASA material. Under your guidance students will increase their academic knowledge, develop social skills through team building collaborations, develop communication skills to demonstrate new understandings found in the exploration of science discoveries presented through applied NASA unique resources, and you will inspire students to become life-long independent learners. This position can be great fun for those who like to work with Technology, such as LEGO Robotics, NASA Engineering Design Challenges, and activities aligned with current NASA Mission Directive campaigns including Humans in Space, Space Technology, Flight, and Solar Systems explorations of the earth, moon, Mars and beyond.
+
+Computer/Software Skills:
+Applicants should be well versed in Microsoft Word, Excel, Power Point, and audio visual presentation project development for black board project summary.
+
+Technical Skills:
+Applicants will utilize the Science, Technology, Engineering Design, and Math presented in hands-on activities through out the camp with a variety of youth abilities and ages. The basic laboratory - safety rules will be demonstrated and followed throughout the program assuring a safe environment with fun learning engaging all youth.
+
+Other Skills:
+Applicants will communicate, model, and lead a team of campers each week on their mission through NASA's ASTRO CAMP 2019 program focusing on teamwork, creativity, and production of mission challenges finding new successful learning experiences for both youth and intern.
+
+Academic Level(s):
+
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+Center Operations Mission
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+
+Title:
+Animating Astronomy
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Goddard Space Flight Center
+
+Building:
+34
+
+Room:
+TBD
+
+Description:
+The intern will be an animator with experience in a variety of techniques (e.g. 2D, 3D, stop-motion), and a background of working and communicating with scientists. They will work with scientists to produce animations based on new results in astrophysics and other aspects of space science. The films produced will be appropriate for use in various forms of outreach.
+
+Computer/Software Skills:
+Experience of using standard animation software packages such as Adobe Creative Suite.
+
+Technical Skills:
+Experience of translating scientific ideas into a form understandable by a general audience.
+
+Other Skills:
+
+
+Academic Level(s):
+College Junior;College Senior;Master's
+
+Major(s):
+Other-Not Listed; Visual and Performing Arts - Design and Applied Arts; Visual and Performing Arts - General
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+Title:
+Applying machine learning algorithms to explore NASA data sets
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Goddard Space Flight Center
+
+Building:
+33
+
+Room:
+A305
+
+Description:
+In this project, we are looking for highly skilled and motivated interns to apply machine learning algorithms, particularly deep learning models, to NASA satellite data. In particular, earth observing satellites from NASA provide a suite of data measuring the atmosphere, land, and the ocean. In this project, the mentor has a few ideas for an intern to explore. The work mode will be flexible in the sense that the intern will apply his/her strongest skill set to one step in the work pipeline, which includes data processing, machine learning model design, implementation and training, post-processing. The project will demand relatively specialized skills in such areas as data processing code writing and machine learning model development. The mentor team will provide strong support to the intern to make the project an intensive and rewarding experience. We expect to be able to produce materials for a scientific/technical paper at the end of the project.
+
+Computer/Software Skills:
+python familiar with one of the common machine learning frameworks data processing skills (hdf, netcdf, cvs) experience with cloud computing environment (e.g. AWS) is a big plus
+
+Technical Skills:
+Basic physics knowledge
+
+Other Skills:
+teamwork
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Data Processing; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Mathematics; Mathematics - Applied; Mathematics - Mathematics and Statistics; Mathematics - Statistics; Multi-disciplinary - Computational Science; Physical Science - Atmospheric Sciences and Meteorology; Physical Science - Physics
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+Title:
+Archives Program Intern
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Goddard Space Flight Center
+
+Building:
+21
+
+Room:
+L200
+
+Description:
+The Goddard Archives preserves and provides access to historical material relating to the NASA Goddard Space Flight Center. As an archives program intern, the candidate will assist the archival staff in this endeavor by providing support for the following archival tasks: appraisal, accessioning, processing, reference, outreach, and digitization of archival materials. The candidate may gain experience in performing basic preservation tasks including re-housing, foldering, sleeving, and fastener removal. The candidate will use the Access to Memory (AtoM) System for describing archival content. The candidate may be responsible for digital preservation tasks using BitCurator and Archivematica software. The candidate will assist in the digitization of original records and optical character recognition of digitized records. The candidate will assist in the Goddard Oral History Project which includes oral history interviews, capture, photography, and preservation and access to oral history. The candidate may be required to lift up to 50 pounds.
+
+Computer/Software Skills:
+Experience working with Microsoft Office Suite, Adobe Acrobat and Adobe Photoshop/Lightroom. Comfortable with learning and using new software.
+
+Technical Skills:
+Knowledge of archival theory, principles and practices.
+
+Other Skills:
+Specialization and/or academic focus in archives, records management, or digital curation. Passion for history and archives. Enthusiasm for NASA missions and programs.
+
+Academic Level(s):
+College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Information Science/Studies; Multi-disciplinary - Historic Preservation and Conservation; Other-Not Listed
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+
+Title:
+Basic Comparison of High-Level Programming Languages
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Goddard Space Flight Center
+
+Building:
+28
+
+Room:
+W134
+
+Description:
+In recent years, we have attempted to compare the performance of several high level programming languages such as Python, Julia, Matlab, IDL, etc. We have implemented basic test cases and recorded the results on a website. These results are used my many organizations to determine which language might be suitable for specific applications. We want to formalize this work by making it more accessible to the public. The goal of this project is: - Edit the source codes to make them more readable, uniform, etc. - Run all the test cases and record the wall clock times - Write a user’s guide describing how to run all the test cases - Write a documentation providing basic background information on each test case - Identify (if possible) more test cases that can be included in the study.
+
+Computer/Software Skills:
+- Familiar with computer programming (any language will be fine)
+
+Technical Skills:
+
+
+Other Skills:
+- Ability to do web searches and identify useful references - Ability to write reports
+
+Academic Level(s):
+College Junior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Systems Analysis; Mathematics - Applied; Physical Science - Physics
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+
+Title:
+Capture the Satellite – II
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Independent Verification and Validation Facility (IVV)
+
+Building:
+1
+
+Room:
+230
+
+Description:
+Compete against another team in a virtual red team/blue team environment to capture a spacecraft. Use open source intelligence, vulnerability assessments and knowledge of hacking to infiltrate and capture a virtual satellite. Or, be on the defense team blocking the attacks, closing the doors and try to stay one step ahead of the attackers. You think you have the skills to capture a satellite? Can you think outside the box? Can you apply your skills in a simulated environment?
+
+Computer/Software Skills:
+.
+
+Technical Skills:
+.
+
+Other Skills:
+Communication is a must, ability to solve complex problems is helpful, thinking fast is a great skill to apply in this arena.
+
+Academic Level(s):
+College Freshman;College Sophomore;College Junior;College Senior;Master’s
+
+Major(s):
+Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Multi-disciplinary - Mathematics and Computer Science; Multi-disciplinary - Science / Technology and Society; Social Science - International Relations and National Security Studies; Social Science - Political Science and Government
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Space Technology Mission
+
+Title:
+Carry On Science Instrument Use on SOFIA
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Ames Research Center
+
+Building:
+N232
+
+Room:
+R151-14
+
+Description:
+• Do you have a passion for exploration? Do you want to help an operational program currently flying new missions every week? Are you driven to help lead the next steps in exploration? Then this may be the opportunity for you!! • The Stratospheric Observatory For Infrared Astronomy (https://www.nasa.gov/mission_pages/SOFIA/index.html) Science Instrument Development Team is looking for passionate, driven, excited team members to help us with multiple new projects underway right now. • Carry On Science Instrument Use on SOFIA •• The SOFIA platform has the opportunity to fly carry-on scientific equipment into the stratosphere on a regular basis. •• Your task will be to: ••• Review the processes for getting scientific equipment on SOFIA ••• Work with the research community to identify scientific research that could be completed with carry-on scientific equipment ••• Develop a plan and schedule for carry-on scientific equipment ••• Propose that plan to the SOFIA Program ••• Fly on SOFIA with the equipment from your proposal and ensure that the necessary data is observed and collected ••• Provide a report to the SOFIA program outlining the process for carry-on scientific data and the results from the observations you took in flight
+
+Computer/Software Skills:
+Microsoft Office Suite or equivalent Microsoft Word or equivalent Microsoft PowerPoint or equivalent Microsoft Excel or equivalent
+
+Technical Skills:
+
+
+Other Skills:
+Great communicator and communications skills Ability to work to deadlines Ability to work with a team - both local and worldwide
+
+Academic Level(s):
+
+
+Major(s):
+ 
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+
+itle:
+Command and Control System Software Development - Summer
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Kennedy Space Center
+
+Building:
+K6-1249
+
+Room:
+1213B
+
+Description:
+This internship consists of developing software for a launch control system. The tasks may include but are not limited to writing software, debugging, troubleshooting, participating in and/or facilitating code inspections, writing and/or fixing unit tests, executing unit tests, analyzing automated test output and assisting with enhancing an automated test framework. The student will have a mentor as well as a technical point of contact throughout the internship- both of which are available to address any questions. The intern will be assigned technical tasks from the technical point of contact. The intern will write a project plan at the start of the internship that will outline the tasks which will be completed during the semester, as well as a final technical report detailing the work done throughout the internship. Training on the specific software development process tools that are used on the project will be provided. A project overview and background information will be provided to the intern as well.
+
+Computer/Software Skills:
+C++, Java, Python, XML, Shell Scripting, development on Unix-flavored operating system(s), debugging, unit test frameworks and automated testing, and troubleshooting software defects.
+
+Technical Skills:
+Ability to perform code inspections, troubleshoot software defects, and perform unit testing. Knowledge of configuration management tools desired but not required. Technical writing skills desired.
+
+Other Skills:
+Will be working with other interns, technical leads, and other full time employees. Need to be able to communicate effectively on a technical level. May be required to perform tasks where leadership skills will be beneficial. Self-motivated and willing to learn new skills.
+
+Academic Level(s):
+College Freshman;College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Systems Analysis; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Mathematics; Mathematics - Applied; Multi-disciplinary - Mathematics and Computer Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+Computer/Software Engineer
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Wallops Space Flight Center
+
+Building:
+E-109
+
+Room:
+268
+
+Description:
+Intern will be responsible for reviewing capabilities of commercial and Department of Defense-engineered government-off-the-shelf graphics and mapping toolkits available to meet Wallops Range-Safety data display (RDDS) system requirements. Development of computer applications using NASA 589 lab resources that interface Wallops range radar and telemetry data sources into toolkits is required. Testing, analysis and compilation of all toolkit performance results into a trade study format that describes capabilities to meet RDDS hardware and software requirements.
+
+Computer/Software Skills:
+C, C++, Qt, python programming skills; Linux and Windows 10 operating system skills
+
+Technical Skills:
+Using various lab network and timing equipment and software tools that simulate Wallops range data flows during a mission launch. Specialized tools include Range Data Acquisition Computer (RADAC) and NetAcquire configurations, Range Auxiliary Processor (RAPS), NASA communication (NASCOM), NASA 598 Portable Object Simulator. Note: Some minimum training is provided for novice lab equipment users.
+
+Other Skills:
+MS Word documentation, EXCEL and PowerPoint presentation skills are required. Ability to work independently and with other group members on the Range Data Display System (RDDS) team.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Systems Analysis; Engineering - Computer; Engineering - General; Mathematics; Mathematics - Applied
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+
+
+Title:
+Data analytics, data mining and visualization
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Stennis Space Center
+
+Building:
+1100
+
+Room:
+2005
+
+Description:
+Apply your knowledge of data mining and analytics to extract insights, identify anomalies and trends, visualize complex data sets, improve processes and effectively communicate information with audiences spanning engineering, finance, and operations.
+
+Computer/Software Skills:
+Python and HTML programming, familiarity with Jupyter notebooks, basic data analytics, etc.
+
+Technical Skills:
+
+
+Other Skills:
+
+
+Academic Level(s):
+College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Data Processing; Mathematics; Mathematics - Applied; Mathematics - Mathematics and Statistics; Mathematics - Statistics; Physical Science - Physics
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+Space Technology Mission
+
+Title:
+Deep Learning for Satellite Imagery Classification
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Ames Research Center
+
+Building:
+245
+
+Room:
+121
+
+Description:
+NASA Ames is partnering with the USGS and NGA to develop DELTA, an open source toolkit for deep learning on satellite imagery. DELTA will empower Earth scientists to achieve state of the art classification results with little to no knowledge of machine learning or computer programming. Initially, DELTA will be trained and evaluated on mapping floods for disaster response and recovery. Potential further uses include studying other natural disasters, changing land use patterns, climate change, and more. The intern will contribute a feature to the DELTA toolkit, which ideally will result in a research publication. Potential projects include: incorporating various metadata into the learning algorithm; experimenting with new neural network architectures or training methods; incorporating multi-satellite sensor fusion; training and evaluation on additional problem domains; and more, depending on student interest. This internship opportunity is part of the Center for Applied Atmospheric Research and Education (CAARE), a NASA-funded project led by San Jose State University (SJSU) and funded by the NASA Minority University and Education Project (MUREP) Institutional Research Opportunity (MIRO) Program. The goals of the NASA MIRO Center for Applied Atmospheric Research and Education are to promote STEM literacy among all students and to enhance and sustain the capability of students from underrepresented institutions to support NASA's Science Mission Directorate (SMD). Earth Observations Satellite observations of floods from MODIS, VIIRS, Landsat, Sentinel-1, and more. Learning Outcomes Experience in C++ and / or Python programming Familiarity with deep learning with TensorFlow Familiarity in remote sensing with a variety of satellites A final report, poster, and oral presentation
+
+Computer/Software Skills:
+Background in C++ and/or Python required
+
+Technical Skills:
+Background in C++ and / or Python required Experience with machine learning preferred Computer Science, Environmental Science or related major
+
+Other Skills:
+
+
+Academic Level(s):
+College Junior;College Senior;Master's;Doctorate
+
+Major(s):
+Computer and Information Sciences - Computer Science; Engineering - Computer; Physical Science - Geological and Earth Science/Geosciences
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+
+Title:
+Design and Develop a Knowledge Management Tool for Innovative Ideas
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Langley Research Center
+
+Building:
+2101
+
+Room:
+255
+
+Description:
+Design and Develop a Knowledge Management Tool for Innovative Ideas and Early Stage Technology Investments. NASA’s Office of the Chief Technologist is developing an Innovation Framework to serve as an Agencywide scalable platform to provide a strategic approach to innovation. A key element of the innovation framework is a knowledge management tool that is secure, sustainable and provides a variety of features. This tool must have the capability of utilization by many customers across the Agency with the final goal of being an Enterprise tool used to address mission and mission support objectives. NASA Langley’s Chief Technologist Office manages early stage technology development and provides resources for innovative and creative ideas that address NASA mission challenges. The Chief Technologist Office has the action to integrate all early stage technology investments at the Center and communicate the results and benefit of these investments to Center leadership. One challenge for the Chief Technologist office is to develop a knowledge management tool that is user friendly provides data sharing capability and open to LaRC Civil Servants. NASA Langley’s ACT2 Connected Innovation team must develop a knowledge management tool that meets the needs of customers, Ken Wright, NASA HQ Office of Chief Technology and the Langley’s Office of Chief Technologist. This tool must utilize a platform that will be sustainable with NASA resources, such as SharePoint. This tool must have the ability to be an enterprise tool so all NASA Centers can have the ability to query data. This particular project will start the development efforts of a data management tool that will be used by many customers at NASA. A team of three students will be developing the tool. Mentors - Julie Williams-Byrd, Acting Chief Technologist, and Pete Lillehei, Acting Deputy Chief Technologist, Office of Chief Technology, Office of the Director, NASA Langley Research Center. Tasks 1. Knowledge Management Tool a. Benchmark available on-line knowledge management tools and platforms, internal and external to NASA i. Bob Hodson, GCDP b. Develop schedule for design and test of each software module with milestones c. Identify success criteria for each software module/feature d. Schedule regular meetings with team and Julie, Pete and Ken for status updates e. Collect requirements for the tool from customers i. Ken Wright, HQ OCT ii. Julie Williams-Byrd and Pete Lillehei iii. LaRC Connected Innovation team iv. LaRC Office of Chief Information (OCIO) POC, Jeremy Yagle v. Center Chief Technologist and Deputy Chief Technologist vi. Spring Interns vii. LaRC IT Security POC – Catherine Prohaska f. Tool must be developed on SharePoint platform g. Design knowledge management tool h. Communicate with tool development contractor (Booze Allen) regarding requirements, design and test i. Beta test tool start with first module/feature, then build capability, test at each new module 2. Transfer innovation campaign information from IdeaLab to Excel spreadsheet to knowledge Management tool 3. Support Center Transformation Grand Challenge event in October a. Collect innovative ideas b. Upload ideas to knowledge management tool 4. Develop visualization products that summarize tool data 5. Write a summary paper describing this internship activities and products 6. Oral presentation describing summary of work products and experience in the Chief Technologist Office at the end of the internship This team of three individuals must be proficient in computer programming in either Python, JavaScript, C++, Visual Basic or other relevant languages in an integrated development environment. These individuals could be majoring in the following discipline areas, computer engineering, computer science, systems engineering, mathematics, systems analysis and information management. These individuals must be able to perform independent research and analysis. These individuals must have expertise with Microsoft Office suite such as Word, Excel and PowerPoint. These individuals must have excellent organization, writing, communication, work well in a team, and critical thinking skills.
+
+Computer/Software Skills:
+This team of three individuals must be proficient in computer programming in either Python, JavaScript, C++, Visual Basic or other relevant languages in an integrated development environment. These individuals could be majoring in the following discipline areas, computer engineering, computer science, systems engineering, mathematics, systems analysis and information management. These individuals must be able to perform independent research and analysis. These individuals must have expertise with Microsoft Office suite such as Word, Excel and PowerPoint. These individuals must have excellent organization, writing, communication, work well in a team, and critical thinking skills.
+
+Technical Skills:
+These individuals could be majoring in the following discipline areas, computer engineering, computer science, systems engineering, mathematics, systems analysis and information management. These individuals must be able to perform independent research and analysis. These individuals must have expertise with Microsoft Office suite such as Word, Excel and PowerPoint.
+
+Other Skills:
+These individuals must have excellent organization, writing, communication, critical thinking skills and work well in with a team.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Doctorate;Master’s
+
+Major(s):
+Business - Management Information Systems and Services; Business - Management Sciences and Quantitative Methods; Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Entry/Microcomputer Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Computer; Multi-disciplinary - Computational Science; Multi-disciplinary - Human Computer Interaction; Multi-disciplinary - Mathematics and Computer Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Aeronautics Research Mission
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+Title:
+Extended Reality Technology Development Internship
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Kennedy Space Center
+
+Building:
+O&C
+
+Room:
+2255
+
+Description:
+The work will involve investigating the capabilities of a number of leading edge technologies in the realm of Extended Reality (XR): Augmented Reality (AR), Virtual Reality (VR), Mixed Reality (MR) and the Natural User Interface (NUI). The student will perform hands-on work with hardware and software associated with the Microsoft Kinect, HTC Vive, Microsoft Hololens, Leap Motion, among others. The objective is to integrate these technologies into an environment designed to explore alternative Human-Computer Interaction (HCI) methodologies. Work will also include developing software tools for converting and importing 3D Computer Aided Design (CAD) models into a format compatible with the Unity virtual environment.
+
+Computer/Software Skills:
+Student should be familiar with programming languages C++, C#, and Python. Microsoft Visual Studio and Unity are some of the primary software development tools in use in the lab. Object-oriented programming, computer architecture and networking skills are high priority. Experience with machine learning and artificial intelligence are a big plus.
+
+Technical Skills:
+A solid grounding in advanced mathematics (algebra, trigonometry, calculus, physics) is important for understanding the fundamentals of 3D model and simulation development. Experience with 3D CAD model development tools such as SolidWorks or Catia is highly desirable. While not required, some background in aerospace, electrical, and/or mechanical engineering is helpful.
+
+Other Skills:
+Visual thinking is a big plus. The ability to visualize the results of a project is a highly prized tool in the lab. As much of the development work being done is experimental, and uses new tools in their infancy on the market, thinking outside the box is also a much sought-after capability. The ability to communicate and express ideas clearly, both in verbal and written forms, is crucial.
+
+Academic Level(s):
+College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Engineering - Computer; Multi-disciplinary - Computational Science; Multi-disciplinary - Human Computer Interaction; Multi-disciplinary - Mathematics and Computer Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+
+
+Title:
+Human Interface Developer of the HIVE (Human Integrated Vehicles and Environment
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Johnson Space Center
+
+Building:
+29
+
+Room:
+233
+
+Description:
+Looking for a student with strong background in computer programming and web development to aid in the research, development, integration and testing of next generation graphical user interfaces for human space flight and developing systems.
+
+Computer/Software Skills:
+Basic programming experience (C++, C#, JAVA or equivalent languages) and HTML5/CSS/JS experience DESIRED ADDITIONAL SKILLS (not required): - Experience UI/UX methodology and design - Experience with Node.js, Express framework, and socketio.js - Interest or experience in design and/or rapid prototyping - any other programming or graphics experience is beneficial (LabVIEW, WebGL, Android, etc.)
+
+Technical Skills:
+Computer skill listed above
+
+Other Skills:
+Ideal candidate is a self starter, high energy, flexible, and looking to work in a fast paced innovative environment.
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master’s
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Information Science/Studies; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Multi-disciplinary - Computational Science; Multi-disciplinary - Mathematics and Computer Science; Other-Not Listed
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+Javascript developer: xGDS Planner
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Ames Research Center
+
+Building:
+N269
+
+Room:
+157a
+
+Description:
+Exploration Ground Data Systems (xGDS) synthesizes real world data (from sensors, robots, ROVs, mobile devices, etc) and human observations into rich, digital maps and displays for analysis, decision making, and collaboration. xGDS includes an interactive traverse plan editor, or ‘planner’, used to specify paths on a map and a task list for humans or robots to follow. It is currently implemented in Backbone built on OpenLayers. This summer project will be to overhaul the planner, creating a new web application (using a modern framework) allowing users to interactively create map based traverse plans based on a plan schema (which specifies what can be in a plan). Primary tasks will include automated web form generation, databinding, using a REST API to load and store data and handle changes. This intern will pair with another intern whose focus will be the map and simulation. https://ti.arc.nasa.gov/tech/asr/groups/intelligent-robotics/xgds/
+
+Computer/Software Skills:
+Familiar with using git for version control.
+
+Technical Skills:
+Experienced with javascript application development. Comfortable with css, ideally familiar with Bootstrap. Experienced debugging javascript in browser debuggers.
+
+Other Skills:
+Good communication
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Science Mission
+
+
+Title:
+Liquid Rocket Engine System Test Data Analysis Capability Development
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Marshall Space Flight Center
+
+Building:
+4203
+
+Room:
+4217
+
+Description:
+The MSFC Liquid Engine Systems Branch regularly performs assessment of rocket engine system test data for a variety of engines including SLS engines (RS-25 and RL10), Commercial Crew Program Engines (RD-180, RL10, and SpaceX Merlin variants), and in-house engine development projects. These data assessment activities help ensure engine testing meets the planned objectives and evaluates engine health for continued testing. The team is continuously developing tools to improve the effectiveness, efficiency, and speed of the engineer’s data assessment efforts. A team of interns would participate in the development of multiple assessment tools and features amidst an agile development environment while learning about liquid rocket engine systems. Capability development areas include improving the technical insight, improving the workflow, and improving the presentation of the results; there are both technical and process dimensions to the efforts.
+
+Computer/Software Skills:
+The team uses a variety of analysis tools based in various program languages including Python, Fortran, Excel/VBA, Matlab, and C++. Python tends to be the language of choice for new capabilities. Some projects require multiple developers and will be worked as a team in a pseudo-agile development environment. Familiarity with this approach is helpful. Also, for these capabilities to outlast the presence of an intern, the ability to code and document any developments in a way that allows other users to learn, be effective, and modify any tools is critical. Visio capabilities would also be useful in developing integrated system schematics.
+
+Technical Skills:
+Engineering assessment of liquid rocket engine system test data involves an understanding of fluid mechanics, thermodynamics, mechanical components (including valve and actuation systems, combustion devices, turbomachinery, etc.), instrumentation and data acquisition systems, control systems, test operations and design, and other areas. In particular, the systems team assesses the interactions between these various disciplines and components (i.e. technical integration). While knowledge of some of these disciplines/components and/or experience evaluating test data will be valuable, it is not considered essential for selection. This internship will provide the opportunity to expand knowledge in these areas. Computer skills and willingness to develop analysis tools is more critical than prerequisite technical knowledge and skills.
+
+Other Skills:
+To be effective, interns must be quick learners of both technical concepts and software tools. Interns must be resourceful in their learning and be able to utilize a combination of reference materials and intelligent questioning to develop their mental picture of the technical, organizational, and process dimensions. Assignments are rarely clear-cut, so an ability to be productive without having all of the information or answers already is critical. The ability to define the problem clearly is often more challenging than solving it in many systems tasks. Communication skills are essential to do this effectively. Both independent thinking and teamwork skills are critical. Intellectual curiosity is also a valuable for a systems engineer.
+
+Academic Level(s):
+College Freshman;College Sophomore;College Junior;College Senior;Master's
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Engineering - Industrial; Engineering - Mechanical; Engineering - Nuclear; Engineering - Physics; Engineering - Science; Engineering - Systems; Multi-disciplinary - Human Computer Interaction; Multi-disciplinary - Systems Science and Theory
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+Space Technology Mission
+
+
+Title:
+Mishap File Organization
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Johnson Space Center
+
+Building:
+20
+
+Room:
+229
+
+Description:
+Safety and Mission Assurance is the custodian of record of all mishap files for the Center. A large number of those mishap files are still in hard-copy format and are not organized in any fashion following relocation to Building 20. The selected intern would be sorting the hard-copy files, organizing according to date, removing duplicates, verifying scanned status, and scanning those that are not in the electronic records.
+
+Computer/Software Skills:
+Basic Windows and MS Office Skills
+
+Technical Skills:
+Selected intern would need good organizational skills.
+
+Other Skills:
+Routine communication skills, ability to work somewhat independently, good organizational skills
+
+Academic Level(s):
+High School;College Freshman;College Sophomore
+
+Major(s):
+High School - Other Interest
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+Title:
+Software Development Support in KSC Lab
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Kennedy Space Center
+
+Building:
+OSB II
+
+Room:
+1213
+
+Description:
+This internship supports a software development team in one of NASA/KSC’s research, technology, and development labs. Because the summer term is so short, the intern must already have knowledge and/or experience developing software. The intern will help design, implement, test, and operate software modules that are used in the lab by multiple projects. The intern will be given a dedicated desk, phone, and laptop to use during their term. After the term starts, the intern will be trained on specific tools and utilities used by the software development team, along with lab projects and supporting software modules. No pre-work is required as we will train you in real time.
+
+Computer/Software Skills:
+We use laptop and desktop PCs, Windows and Ubuntu/Linux operating systems, C/C++ languages, command line scripting languages, and also some Python programming languages. We use the Microsoft Office suite of office tools.
+
+Technical Skills:
+Applicants must have knowledge and/or experience developing software. Either through classwork or as a hobby.
+
+Other Skills:
+Being able to self-study and learn new tools and technologies quickly is desirable. An awareness of tools/languages/technologies/systems that are not currently being utilized by the KSC lab, but that might be beneficial to the lab is also desirable. We want to constantly improve and having fresh eyes and fresh minds on the team can be a real benefit.
+
+Academic Level(s):
+College Freshman;College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Multi-disciplinary - Mathematics and Computer Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+Space Technology Mission
+
+
+Title:
+Software Engineering Metrics
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Stennis Space Center
+
+Building:
+3225
+
+Room:
+B24
+
+Description:
+Develop tools to capture software metrics (source code metrics, development metrics, and testing metrics) and perform trending/analysis to identify areas of focus to improve software quality and/or code development efficiency.
+
+Computer/Software Skills:
+Excel,
+
+Technical Skills:
+Experience in LabView, Matlab, C++, Ladder Logic or any other coding language
+
+Other Skills:
+
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer Science; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+Strategic Partnerships Integration Internship
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Langley Research Center
+
+Building:
+1209
+
+Room:
+114
+
+Description:
+The selected students will participate in Strategic Partnerships Integration: the development of policy, requirements, and strategy for NASA's technology development partnership activities in support of the Chief Technologist by coordinating with NASA mission directorates, other government agencies, and external organizations. The selected students will participate in strategic and systems analysis to support capability and technology partnerships between NASA and other government agencies. The students will be members of an Agency-wide team that pursues and fosters partnerships critical to achieving the mission of the Office of the Chief Technologist, which is to lead NASA's technology strategy, analysis, and innovation to enable future missions and advance US economic competitiveness.
+
+Computer/Software Skills:
+Experience in computer-based spreadsheets, databases, research and analysis. Experience with Windows, Microsoft Office suite, Excel-based research and analysis, and Python programming.
+
+Technical Skills:
+
+
+Other Skills:
+Good oral communication and writing skills, teamwork, leadership. Quick turnaround of deliverables.
+
+Academic Level(s):
+College Junior;College Senior
+
+Major(s):
+Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Industrial; Engineering - Mechanical; Engineering - Systems
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Space Technology Mission
+
+
+Title:
+Systems Development, and Knowledge Discovery
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Kennedy Space Center
+
+Building:
+M7-0355
+
+Room:
+2259
+
+Description:
+Systems Development utilizes the current software tools and technologies (Visual Studio .Net Framework) to develop custom applications for data analysis and design. Data mining uses pattern based queries, searches, or other analyses of one or more electronic databases in order to discover or locate a predictive pattern or anomaly indicative of lessons learned, or system failures. Throughout NASA, hundreds of data systems are designed and tailored to serve specific engineering and business needs. Many of these systems use relational algebra with structured query language to categorize and retrieve data. In these systems, data analyses are limited and require prior explicit knowledge of metadata and database relations; lacking exploratory data mining and discoveries. The purpose of this project is to infuse data mining techniques, methods and algorithms to improve data evaluations and analyses in NASA Data Systems.
+
+Computer/Software Skills:
+Web Development, C#, Microsoft SQL, Angular 6 or later
+
+Technical Skills:
+Knowledge with using Computers/Computer Programming.
+
+Other Skills:
+Work in a team environment.
+
+Academic Level(s):
+High School;College Freshman;College Sophomore;College Junior;College Senior;Master's;Doctorate;Post-Doctoral;Educator
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Computer Systems Analysis; Computer and Information Sciences - Computer Systems Networking and Telecommunications; Computer and Information Sciences - Data Entry/Microcomputer Applications; Computer and Information Sciences - Data Processing; Computer and Information Sciences - Information Science/Studies; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Engineering - Electromechanical Engineering; Engineering - General; Engineering - Industrial; Engineering - Operations Research; Engineering - Science
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Center Operations Mission
+
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Ames Research Center
+
+Building:
+269
+
+Room:
+281
+
+Description:
+Students will participate in the development of SHERPA (System Health Enabled Realtime Planning Advisor) – a decision support system for planetary exploration missions. SHERPA is based on the latest developments on the field of decision making under uncertainty. Tasks will depend on the student’s interests and skills, with some examples including: (1) development of use case (such as vehicle trajectory synthesis, landing site selection, or design parameters optimization); (2) development of visualization and automated result explanation tools; (3) development of benchmarking algorithms and metrics; (4) vehicle systems modeling; and (5) development of unit tests.
+
+Computer/Software Skills:
+Required: Solid programming skills with one or more modern programming languages (C++, C#, Python, Matlab, Java, etc) Desired: (1) Proficiency with Julia programming language; (2) experience building user interfaces and doing computer graphics; and (3) experience with modern development tools (debuggers, profilers, version control systems, etc).
+
+Technical Skills:
+Desired: (1) Artificial Intelligence background, particularly in the area of control, planning, and decision making; (2) Knowledge of basic physics.
+
+Other Skills:
+1) Good technical writing skills; (2) Good team/social skills. Citizenship: US Citizen or Permanent Resident only; Residence: Prefer students attending San Francisco Bay Area high schools, colleges, and universities.
+
+Academic Level(s):
+High School;College Freshman;College Sophomore;College Junior;College Senior;Master's
+
+Major(s):
+Communications - Graphic Communications; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Computer and Information Sciences - Data Processing; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Engineering - Electromechanical Engineering; Engineering - Mechanical; Engineering - Mechanics; Engineering - Mechatronics / Robotics / Automation Engineering; Engineering - Operations Research; Engineering - Physics; Engineering - Science; Engineering - Systems; High School - Other Interest; Mathematics - Applied; Mathematics - Mathematics and Statistics; Mathematics - Statistics; Multi-disciplinary - Computational Science; Multi-disciplinary - Human Computer Interaction; Multi-disciplinary - Mathematics and Computer Science; Multi-disciplinary - Systems Science and Theory; Physical Science - Physics; Visual and Performing Arts - Design and Applied Arts
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+Science Mission
+Space Technology Mission
+
+Title:
+Virtual Reality Content Development
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Marshall Space Flight Center
+
+Building:
+4755
+
+Room:
+217
+
+Description:
+NASA uses immersive Virtual Reality (VR) experiences to enhance design communication efforts, field operations and decision making across the Agency. Stakeholders are immersed in virtual environments to address areas of interest associated with a broad range programs and technical content. The Environment Control and Life Support (ECLSS) Development Branch is currenlty standing up a Virtual, Augmented, and Mixed Reality (Extended Reality Lab) to implement these technologies early in the design cycle of emerging programs; habitats, landers, propulsion, science, and life support systems, to streamline the design process and achieving a higher design maturity at major review milestones (PDR/CDR) and streamline/expedite development processes/schedules and operational tools for existing programs. This opportunity will allow for the intern to work closely with other team members to perform a range of duties involved in VR production including early design development, stakeholder engagement and research of interactive technology. The job requires the use of a variety of software for digital file processing. Scope of Work/Tasks and Responsibilities: Create VR and (potentially AR) experiences through available web-based interfaces, and specialized VR software like Steam VR, Unity and others. Process CAD models produced by numerous designers and build VR experiences Support VR activations and showcase efforts via hardware install, equipment management and content upload. Interact with users at events and meetings. Demo experiences for project managers, Center Management, design teams, and commercial partners. Troubleshooting equipment, content management and training as needed. Research new ways to expand Interactive immersive content by testing software and hardware and creating pilot projects. Potentially develop 360/VR Video editing with 360 overlays, stitching and previews (not mandatory)
+
+Computer/Software Skills:
+Experience creating Virtual Reality/Augmented Reality environments using Unity and similar 3D interfaces Experience with VR interfaces and headsets (HTC Vive and Oculus Rift) Strong programming background in C# and JavaScript Modeling Experience in Pro-E or other CAD programs Ability to convert CAD data into a game engine-compatible, VR-ready format and reduce the level of detail in the rich engineering model into a lighter, nimbler model.
+
+Technical Skills:
+Photo editing skills, proficiency in Adobe Photoshop (not mandatory) Photo and video shooting experience, preferably using 360 cameras (not mandatory)
+
+Other Skills:
+Good verbal and written communication skills and willingness to work in a team environment along with self motivation without daily supervision
+
+Academic Level(s):
+College Sophomore;College Junior;College Senior;Master's
+
+Major(s):
+Architecture; Computer and Information Sciences - Computer Programming; Computer and Information Sciences - Computer Science; Computer and Information Sciences - Computer Software and Media Applications; Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Industrial; Engineering - Mechanical
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+Web Developer/ Software Developer
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Johnson Space Center
+
+Building:
+1
+
+Room:
+672
+
+Description:
+Opportunity is to assist in the development of new front-end applications for the organization's websites. This includes designing, building, and implementing new Web pages and sites; integrating sites with back-end applications including search tools; migrating legacy applications and data to the Web; and helping with the day-to-day administration of the organization's Web portfolio. General web and or software experience is required. Primary task is to assist in Data Migration of putting unstructured data into a logical format and storing in the ITAR-secured NASA Data Cloud and proving search tools and user interface. Also application development and working with internal NASA customers.
+
+Computer/Software Skills:
+Solid knowledge of HTML, CSS and JavaScript. Familiarity with JQuery, AngularJS and Node.JS Best case would be direct experience as a MEAN stack developer (MongoDB, ExpressJS, AngularJS, Node.js)Must be able to debug and test their own code.
+
+Technical Skills:
+Self-starter, comfortable with minimal tech support.
+
+Other Skills:
+Must have strong written communication skills, familiar with documenting code.
+
+Academic Level(s):
+College Junior;College Senior
+
+Major(s):
+Computer and Information Sciences - Computer/Information Technology Administration and Management; Computer and Information Sciences - Computer Science
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+Title:
+Virtual Reality Modeling and Simulation
+
+Type:
+Internship
+
+Session:
+Summer 2019
+
+Center:
+Kennedy Space Center
+
+Building:
+K6-1246
+
+Room:
+3111B
+
+Description:
+This position is the with Modeling and Simulation team on the Spaceport Command & Control System project at NASA/KSC. In addition to our responsibilities of developing simulation software for the command & control system, we provide tools to improve the software development process and lifecycle. This student opportunity will be to design and develop a model components and/or related simulation software to enhance the simulation software developer's work. We have a number of tasks in mind that could be worked during the term based on the applicant's skills and abilities. The expected outcome of this opportunity will be fully tested software that can be used by the simulation software development team, along with operation documentation and users guide as appropriate in addition to an overall intern experience report.
+
+Computer/Software Skills:
+Knowledge of general software development lifecycle and process is recommended. Experience writing software using one or more of the following languages is recommended: C, C++, Perl, python, PLC Ladder Logic, etc. Knowledge of the following tools is recommended: MatLab, Simulink, MiMic, AutoCAD, UNREAL Game Engine, Unity Game Engine or other modeling and drawing tools.
+
+Technical Skills:
+Knowledge of the following tools is recommended: MatLab, Simulink, MiMic, AutoCAD, UNREAL Game Engine, Unity Game Engine or other modeling and drawing tools.
+
+Other Skills:
+Accountability Plans, organizes, and prioritizes own work activities to complete assignments in a timely and effective manner; Takes responsibility for own actions, whether or not they are successful. Communication Interprets and appropriately responds to written, verbal, and non-verbal communications; Communicates issues clearly and concisely in an timely, accurate, concise, and courteous manner. Compliance Demonstrates satisfactory judgment in applying guidelines to the duties of the position Critical Thinking Gains a thorough understanding of moderately complex situations or problems by identifying key issues and assumptions and collecting accurate, relevant, and complete information. Customer Service Interactions with customers are professional and courteous Decision Making Uses readily available information sources to meet expectations. Flexibility / Creative Thinking Handles routine issues well. Responses and solutions meet expectations of the position. Oral Communication Communications are typically open and truthful. Employee expresses themselves clearly and appropriately. Ideas are clearly understood by others. Problem Solving Meets expectations in the identification and recognition of issues. Safety Aware of and complies with safety and occupational health standards. Maintains a safe environment. Takes timely action to correct violations. Teamwork and Collaboration Contributes to achieving goals by working collaboratively and building effective partnerships across organizations; Demonstrates awareness of responsibility to provide information and actively seeks opportunities to share knowledge, skills, and lessons learned within and beyond own work division. Technical Competence Demonstrated standard level of understanding of the subject matter . Written Communication Employee expresses themselves clearly and appropriately.
+
+Academic Level(s):
+College Sophomore;College Junior
+
+Major(s):
+Engineering - Aerospace / Aeronautical and Astronautical Engineering; Engineering - Computer; Engineering - Electrical / Electronics / Communications Engineering; Engineering - Electromechanical Engineering; Engineering - General; Engineering - Mechanical; Engineering - Systems
+
+
+Mission directorate(s) directly benefiting from the tasks involved in this internship:
+Human Exploration and Operations Mission
+
+
+
+
